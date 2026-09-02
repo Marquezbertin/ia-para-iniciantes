@@ -1,0 +1,71 @@
+EXERCÍCIO 03: APRENDIZADO NÃO-SUPERVISIONADO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 02 - Machine Learning
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o aprendizado não-supervisionado e como máquinas encontram padrões sozinhas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+O aprendizado não-supervisionado recebe dados SEM respostas conhecidas e precisa descobrir padrões por conta própria, agrupando itens semelhantes.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Agrupamento manual (10 minutos)
+   - Crie uma lista de 15 músicas que você gosta
+   - Sem usar nenhuma ferramenta, agrupe-as em 3-4 categorias
+   - Descreva os critérios que você usou para agrupar
+   - Compare com um amigo - vocês agruparam da mesma forma?
+
+Tarefa 2: Investigação de padrões (10 minutos)
+   - Veja as recomendações do YouTube, Netflix, Spotify
+   - Responda:
+     * O que elas NOTARAM sobre você?
+     * Quais padrões a IA descobriu?
+     * Como você sabe que é um aprendizado não-supervisionado e não um simples filtro?
+
+Tarefa 3: Desenho do processo (bonus)
+   - Desenhe como você acha que a IA agrupa as músicas
+   - Inclua: entrada de músicas → análise → agrupamentos → recomendações
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que o não-supervisionado precisa de menos preparação de dados?
+
+2. Quais são os riscos da IA agrupar dados sem supervisão?
+
+3. Como as empresas usam "clusters" (agrupamentos) para vender produtos?
+
+4. Você confiaria em uma IA que descobre padrões sozinha sem você explicar?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em como o Spotify cria "Discover Weekly"
+
+Dica 2: O agrupamento se baseia em semelhanças de características
+
+Dica 3: Diferentes pessoas podem agrupar de formas diferentes - isso é normal
+
+Dica 4: Escreva critérios objetivos ao invés de só "porque sim"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Lista de 15 músicas com agrupamentos
+□ Critérios de agrupamento descritos claramente
+□ Investigação das recomendações respondida
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

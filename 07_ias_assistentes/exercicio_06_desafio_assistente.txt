@@ -1,0 +1,87 @@
+EXERCÍCIO 06: DESAFIO — PROJETO COM IA ASSISTENTE
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Completar um projeto completo usando uma IA assistente de forma produtiva e crítica.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos usar tudo o que aprendemos para realizar um pequeno projeto real com ajuda da IA: criar um guia/roteiro sobre um tema que você domina (ou quer aprender).
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escolha o tema (5 minutos)
+   - Escolha UM tema do seu interesse:
+     * Ex: "Guia para começar no Minecraft"
+     * "Como estudar para o vestibular"
+     * "Receitas fáceis para o lanche"
+     * Ou qualquer outro
+
+Tarefa 2: Crie o roteiro com a IA (20 minutos)
+   - Planeje um guia de 3 seções (introdução, conteúdo passo a passo, conclusão)
+   - Use técnicas de prompt:
+     * Defina o papel (tutor/coautor)
+     * Defina o público
+     * Peça um formato claro
+   - Peça para a IA criar o esboço
+   - Refine com iterações até ficar bom
+
+Tarefa 3: Revise com senso crítico (15 minutos)
+   - LEIA a resposta produzida criticamente
+   - Corrija:
+     * Informações erradas ou estranhas
+     * Partes mal escritas
+     * O que faltou
+   - REESCREVA com suas próprias palavras onde necessário
+   - Produza a versão FINAL (sua + da IA)
+
+Tarefa 4: Atividade de prontidão (bonus)
+   - Verifique se o guia está pronto para outra pessoa usar
+   - Peça a um colega para ler e dar feedback
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi trabalhar em parceria com a IA?
+
+2. O que a IA fez bem? O que você teve que corrigir/reescrever?
+
+3. Esse guia é realmente "seu" se a IA ajudou?
+
+4. Como você faria um projeto maior com IA no futuro?
+
+5. Em que situações é mais ético usar IA para criar?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA é ótima para esboços, mas você deve adicionar sua experiência real
+
+Dica 2: Revise SEMPRE - a IA pode errar fatos
+
+Dica 3: Suas opiniões e vivências tornam o guia único
+
+Dica 4: Documente o processo de criação (esboço, refino, revisão final)
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Tema escolhido
+□ Roteiro criado com iterações de refinamento
+□ Revisão crítica com correções
+□ Versão final produzida (sua + IA)
+□ Feedback de colega (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

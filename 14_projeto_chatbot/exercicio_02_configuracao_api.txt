@@ -1,0 +1,85 @@
+EXERCÍCIO 02: CONFIGURAÇÃO DA API PARA O CHATBOT
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Configurar o acesso a uma API de IA e preparar o ambiente para o chatbot.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Para o chatbot funcionar, precisamos conectar a uma API de IA. Vamos configurar o ambiente.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Crie a conta (10 minutos)
+   - Acesse https://aistudio.google.com (Google AI Studio)
+   - Faça login com sua conta Google
+   - Localize a seção de "API keys" (chaves de API)
+   - Crie uma API key
+   - **Guarde com segurança!** (não compartilhe, não coloque em código exposto)
+
+Tarefa 2: Configure no Colab (20 minutos)
+   - Abra https://colab.research.google.com
+   - Crie um notebook
+   - Instale a biblioteca:
+   ```
+   !pip install google-generativeai
+   ```
+   - Configure (substitua pela sua key):
+   ```
+   import google.generativeai as genai
+
+   genai.configure(api_key="SUA_KEY_AQUI")
+   model = genai.GenerativeModel("gemini-pro")
+
+   resposta = model.generate_content("Olá! Quem é você?")
+   print(resposta.text)
+   ```
+   - Execute e registre a resposta
+
+Tarefa 3: Proteção da key (10 minutos)
+   - Explique por que não é seguro colocar a key diretamente no código
+   - Pesquise como usar "variáveis de ambiente" ou "segredos" para guardar
+   - Descreva como você protegeria a key
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi configurar a API?
+
+2. Por que a autenticação é necessária?
+
+3. Que riscos há em expor uma API key?
+
+4. Como você manteria a key segura?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O AI Studio tem free tier (gratuito) para testes
+
+Dica 2: A key é sua identidade — trate como senha
+
+Dica 3: No Colab você pode usar o painel de "segredos" (ícone de chave) para guardar a key
+
+Dica 4: Se expor a key, revogue e crie outra
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Conta do AI Studio criada e key obtida
+□ Biblioteca instalada e teste executado (com resposta registrada)
+□ Explicação da proteção da key
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,74 @@
+EXERCÍCIO 01: PLANEJAMENTO DO CHATBOT
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Planejar seu chatbot definindo objetivo, público, personalidade, funcionalidades e limites.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Antes de programar, é essencial planejar. Vamos definir todos os aspectos do seu chatbot.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina o propósito (10 minutos)
+   - Escolha e descreva claramente:
+   1. **Objetivo:** O que o chatbot faz? (ex: tira dúvidas de matemática)
+   2. **Público:** Para quem é? (ex: estudantes de 12-14 anos)
+   3. **Personalidade:** Como se comporta? (ex: paciente, divertido, formal)
+   4. **Funcionalidades:** O que ele sabe fazer? (ex: resolver equações, dar dicas)
+   5. **Limites:** O que ele NÃO faz? (ex: não dá respostas prontas de tarefas)
+
+Tarefa 2: Escreva o "prompt de sistema" (15 minutos)
+   - Escreva um texto que define quem o chatbot é. Exemplo:
+   "Você é a Prof. Nina, uma tutora amigável de matemática para estudantes do
+   ensino fundamental. Você explica passo a passo, usa exemplos do cotidiano,
+   é paciente e encorajadora. Você NUNCA entrega a resposta final direto:
+   primeiro guia o estudante a pensar."
+   - Escreva o seu (personalizado)
+
+Tarefa 3: Preveja conversas (5 minutos)
+   - Escreva um exemplo de diálogo que o usuário teria com seu chatbot
+   - 3 trocas (pergunta do usuário + resposta esperada)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é importante definir os limites do chatbot?
+
+2. Como a personalidade muda a experiência do usuário?
+
+3. Que problemas a falta de planejamento poderia causar?
+
+4. Como seu chatbot será útil e ético?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no usuário real e suas necessidades
+
+Dica 2: Personalidade clara = respostas consistentes
+
+Dica 3: Defina limites para evitar respostas inadequadas
+
+Dica 4: O prompt de sistema é a "alma" do chatbot
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Propósito definido (5 itens)
+□ Prompt de sistema escrito
+□ Exemplo de diálogo (3 trocas)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

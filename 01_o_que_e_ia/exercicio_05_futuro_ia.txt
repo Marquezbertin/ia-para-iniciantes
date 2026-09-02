@@ -1,0 +1,75 @@
+EXERCÍCIO 05: O FUTURO DA INTELIGÊNCIA ARTIFICIAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Refletir sobre o futuro da IA e desenvolver pensamento crítico sobre possíveis cenários.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA está evoluindo rapidamente. Vamos imaginar como ela pode mudar nossas vidas nos próximos anos e refletir sobre os impactos positivos e negativos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Previsões para 2030 (15 minutos)
+   - Escreva 5 previsões sobre como a IA mudará o mundo até 2030:
+   1. Na educação: _________________________________
+   2. Na saúde: _________________________________
+   3. No trabalho: _________________________________
+   4. Na comunicação: _________________________________
+   5. No entretenimento: _________________________________
+
+Tarefa 2: Debate com IA (10 minutos)
+   - Use o ChatGPT ou Claude para fazer um debate:
+   - Pergunte: "Você acha que a IA vai substituir todos os empregos?"
+   - Argumente com a IA usando seus próprios pontos de vista
+   - Anote os 3 melhores argumentos da IA
+   - Anote 3 pontos onde você discorda da IA
+
+Tarefa 3: Carta para o futuro (bonus)
+   - Escreva uma carta para você mesmo em 2030
+   - Descreva como você imagina a vida com IA
+   - Inclua coisas que você quer que aconteçam e coisas que teme
+   - Guarde a carta para ler no futuro!
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que você mais espera que a IA resolva no futuro?
+
+2. O que mais teme sobre o avanço da IA?
+
+3. Como você quer que a IA seja usada na sua profissão (futura)?
+
+4. Se você pudesse criar uma IA para resolver UM problema do mundo, qual seria?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em problemas reais que você ou sua família enfrentam
+
+Dica 2: Leia notícias recentes sobre IA no Google News
+
+Dica 3: Veja filmes de ficção científica sobre IA (Her, Ex Machina, 2001)
+
+Dica 4: Considere tanto os aspectos positivos quanto negativos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 previsões detalhadas para 2030
+□ Debate com IA documentado (3 argumentos a favor, 3 contra)
+□ Carta para o futuro escrita
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

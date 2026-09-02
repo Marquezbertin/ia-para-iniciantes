@@ -1,0 +1,72 @@
+EXERCÍCIO 05: ERROS COMUNS EM PROMPTS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Identificar e corrigir erros comuns na criação de prompts.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Muitos prompts falham por erros simples e corrigíveis. Vamos aprender a identificá-los.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Identifique os erros (10 minutos)
+   - Para cada prompt, identifique o erro(s):
+   1. "Texto sobre clima" (vago?)
+   2. "Me explica e também escreve uma história e traduz pra inglês" (muita tarefa?)
+   3. "Diz as capitais do mundo" (muito amplo?)
+   4. "Sobre a Segunda Guerra" (sem contexto?)
+   5. "Lista planetas" (sem formato?)
+
+Tarefa 2: Corrija os prompts (10 minutos)
+   - Reescreva cada prompt acima corrigindo os erros
+   - Adicione: papel, contexto, formato ou limitações conforme necessário
+   - Inclua na reescrita o que estava faltando
+
+Tarefa 3: Teste (bonus)
+   - Teste pelo menos 2 versões originais e 2 corrigidas no ChatGPT
+   - Compare a qualidade das respostas
+   - Registre a melhora observada
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Qual erro de prompt você comete com mais frequência?
+
+2. Como você identifica que um prompt é "vago" ou "amplo demais"?
+
+3. Por que prompts curtos podem ser piores que os detalhados?
+
+4. Como você treinaria outra pessoa a criar bons prompts?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Se a resposta vem "genérica", o prompt provavelmente é vago
+
+Dica 2: Se a IA se perde, talvez haja tarefas demais juntas
+
+Dica 3: Divida tarefas complexas em prompts menores
+
+Dica 4: Pergunte a si mesmo: "a IA tem contexto suficiente?"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Erros identificados nos 5 prompts
+□ 5 versões corrigidas criadas
+□ Teste comparativo (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

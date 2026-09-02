@@ -1,0 +1,74 @@
+EXERCÍCIO 05: TIPOS DE REDES NEURAIS
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 03 - Redes Neurais
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Conhecer os principais tipos de redes neurais e quando usar cada um.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Existem diferentes arquiteturas de redes neurais, cada uma especializada em diferentes tipos de dados e problemas. Vamos conhecer as principais.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Complete a tabela (20 minutos)
+   | Tipo de Rede | Especializada em | Exemplo de Uso |
+   |--------------|------------------|----------------|
+   | Densas/Fully Connected | _________________________________________________ |
+   | CNN (Convolucional)    | _________________________________________________ |
+   | RNN (Recorrente)       | _________________________________________________ |
+   | Transformer            | _________________________________________________ |
+
+Tarefa 2: Associe o tipo ao problema (10 minutos)
+   Para cada problema, todos o tipo de rede mais adequado e justifique:
+   1. Classificar imagens de geladeira (quais alimentos tem dentro)
+   2. Traduzir texto de português para inglês
+   3. Prever o próximo número de uma sequência
+   4. Reconhecer comandos de voz
+   5. Analisar dados de uma planilha (idade, renda, etc.)
+
+Tarefa 3: Pesquisa sobre Transformers (bonus)
+   - Pesquise por que os Transformers revolucionaram a IA
+   - Escreva 3 fatos sobre como funcionam
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que não usamos UMA rede para tudo?
+
+2. Qual a diferença fundamental entre CNN e RNN?
+
+3. Por que o Transformer é especial para linguagem?
+
+4. Como escolher a arquitetura certa?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: CNN = imagens, RNN = sequências, Transformer = linguagem/texto longo
+
+Dica 2: Redes densas servem para dados simples em tabelas
+
+Dica 3: O Transformer processa tudo de uma vez (paralelo), RNN processa em ordem
+
+Dica 4: Pesquise "Transformer architecture explained simply"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Tabela completa com os 4 tipos
+□ 5 associações tipo->problema com justificativas
+□ Pesquisa sobre Transformers (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

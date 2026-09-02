@@ -1,0 +1,67 @@
+EXERCÍCIO 01: O QUE É VISÃO COMPUTACIONAL?
+
+Dificuldade: ⭐ Fácil
+Módulo: 05 - Visão Computacional
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o conceito de visão computacional e suas aplicações.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Os computadores não enxergam como nós, mas conseguem interpretar imagens. Vamos entender como isso funciona e onde se aplica.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é visão computacional
+   - Diferencie de "ver" como um humano vê simplesmente
+
+Tarefa 2: Liste 5 aplicações (10 minutos)
+   - Liste 5 aplicações da visão computacional
+   - Para cada uma, explique como ela funciona no contexto
+   - Inclua tanto usos do dia a dia quanto usos profissionais
+
+Tarefa 3: Pense fora da caixa (bonus)
+   - Pense em 3 aplicações criativas/incomuns de visão computacional
+   - Exemplo: contar formigas, detectar plantas doentes, etc.
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é difícil para as máquinas reconhecerem objetos?
+
+2. Como você acha que o reconhecimento facial vai evoluir?
+
+3. Que erros você já viu em sistemas de visão?
+
+4. A visão computacional pode "ver" mais que os humanos? Como?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no Google Lens - ele "vê" objetos através da câmera
+
+Dica 2: Câmeras de trânsito usam visão computacional para detectar infrações
+
+Dica 3: Visão computacional é usada na agricultura (drones detectam doenças em plantas)
+
+Dica 4: Observar o mundo: tudo que parece "enxergar" remotamente pode ser visão computacional
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de visão computacional
+□ 5 aplicações listadas com explicações
+□ 3 aplicações criativas (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

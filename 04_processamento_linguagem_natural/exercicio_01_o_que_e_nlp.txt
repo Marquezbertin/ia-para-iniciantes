@@ -1,0 +1,70 @@
+EXERCÍCIO 01: O QUE É PROCESSAMENTO DE LINGUAGEM NATURAL (NLP)?
+
+Dificuldade: ⭐ Fácil
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o que é NLP e quais problemas ele resolve.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As máquinas não falam português nativamente - precisamos ensinar a elas nossa linguagem. Vamos entender o desafio do NLP.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é NLP
+   - Dê 3 exemplos de ferramentas que usam NLP
+
+Tarefa 2: Liste 5 aplicações (10 minutos)
+   - Liste 5 aplicações/práticas de NLP
+   - Para cada uma, explique:
+     * O que faz
+     * Como você a usa no dia a dia
+     * O que seria sem NLP
+   - Exemplo: "Corretor do celular - corrige enquanto digito - sem ele digitaria errado"
+
+Tarefa 3: Menos óbvio (bonus)
+   - Pense em aplicações de NLP que NÃO são óbvias
+   - Exemplo: filtro de spam, legenda automática, resumo de notícias
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a linguagem humana é difícil para computadores?
+
+2. Em quais situações o NLP falha? Você já viu exemplos de erros?
+
+3. Por que é mais fácil para uma IA ler/entender dados numéricos do que texto?
+
+4. A IA entende o SIGNIFICADO das palavras ou só reconhece padrões? Como saber?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Todas as vezes que você digita no celular, NLP está ativo
+
+Dica 2: Até o CAPTCHA de "mostre os semáforos" pode envolver IA
+
+Dica 3: Lembre: NLP não é só ChatGPT - é tudo que envolve texto e máquina
+
+Dica 4: Erros de tradução são bons exemplos das limitações do NLP
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de NLP (3-4 linhas)
+□ 5 aplicações listadas com explicações
+□ Exemplos de aplicações não óbvias (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

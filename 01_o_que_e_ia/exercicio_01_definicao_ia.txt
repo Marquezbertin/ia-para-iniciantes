@@ -1,0 +1,68 @@
+EXERCÍCIO 01: DEFINIÇÃO DE INTELIGÊNCIA ARTIFICIAL
+
+Dificuldade: ⭐ Fácil
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender e explicar o que é Inteligência Artificial de forma simples.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A Inteligência Artificial (IA) está em todo lugar, mas muitas pessoas não sabem explicar o que é de forma simples. Sua tarefa é criar uma definição clara e acessível de IA que qualquer pessoa possa entender.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Escreva em 3-4 linhas o que é IA usando suas próprias palavras
+   - Não use termos técnicos complexos
+   - Imagine que está explicando para um amigo de 10 anos
+
+Tarefa 2: Liste 5 exemplos do dia a dia (10 minutos)
+   - Pense em pelo menos 5 coisas que você usa que têm IA
+   - Para cada exemplo, explique brevemente como a IA funciona
+   - Exemplo: "Spotify usa IA para recomendar músicas baseado no que já ouvi"
+
+Tarefa 3: Diferencie IA de software comum (bonus)
+   - Qual é a diferença entre um calculadora e uma IA?
+   - Por que o YouTube é mais "inteligente" que um DVD player?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Você acha que uma IA pode pensar como um humano? Por quê?
+
+2. Se uma IA erra ao reconhecer um gato em uma foto, isso significa que ela não é inteligente?
+
+3. Existe alguma tarefa que você acha que a IA NUNCA conseguirá fazer?
+
+4. Como você se sentiria se descobrisse que uma mensagem que recebeu foi escrita por uma IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Use o ChatGPT ou Claude para perguntar "O que é IA?" e compare sua definição com a resposta dele.
+
+Dica 2: Olhe ao seu redor agora e liste tudo que tem alguma forma de "inteligência" - desde o corretor do celular até as recomendações do Netflix.
+
+Dica 3: Pense em analogias: "IA é como um assistente que aprende com o que você faz."
+
+Dica 4: Não existe resposta certa ou errada - o importante é você conseguir explicar com suas palavras.
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara e concisa de IA (3-4 linhas)
+□ Lista com pelo menos 5 exemplos reais do dia a dia
+□ Cada exemplo com explicação de como a IA funciona
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

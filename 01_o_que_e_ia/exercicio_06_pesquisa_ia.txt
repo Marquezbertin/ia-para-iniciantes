@@ -1,0 +1,80 @@
+EXERCÍCIO 06: PESQUISA SOBRE INTELIGÊNCIA ARTIFICIAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Desenvolver habilidades de pesquisa sobre IA e comunicar descobertas de forma clara.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA é um campo vasto e em constante mudança. Vamos desenvolver habilidades de pesquisa para encontrar informações confiáveis e organizá-las de forma clara.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escolha um tema de pesquisa (5 minutos)
+   - Escolha UM dos temas abaixo para pesquisar:
+   a) IA na educação brasileira
+   b) IA na medicina
+   c) IA no Brasil
+   d) Empresas brasileiras que usam IA
+   e) IA e sustentabilidade
+
+Tarefa 2: Pesquisa online (15 minutos)
+   - Use Google, Wikipedia e sites confiáveis
+   - Encontre pelo menos 3 fontes diferentes
+   - Anote as principais informações encontradas
+   - Verifique se as fontes são confiáveis (evite sites duvidosos)
+
+Tarefa 3: Apresentação resumida (10 minutos)
+   - Escreva um resumo de 15-20 linhas sobre o tema escolhido
+   - Inclua:
+     * O problema que a IA resolve naquele área
+     * Exemplos reais de uso
+     * Vantagens e desvantagens
+     * Nomes de empresas ou projetos relevantes
+     * Links das fontes consultadas
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como você avaliou se uma fonte é confiável?
+
+2. O que foi mais difícil de encontrar na pesquisa?
+
+3. Alguma informação te surpreendeu? Qual?
+
+4. Como você usaria essa pesquisa na escola ou em um trabalho?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Use operadores de busca avançados: "IA na saúde site:gov.br"
+
+Dica 2: Prefira fontes acadêmicas, institucionais ou de empresas conhecidas
+
+Dica 3: Cuidado com notícias sensacionalistas sobre IA
+
+Dica 4: Anote sempre as fontes para poder citar depois
+
+Dica 5: Use o Google Scholar para encontrar artigos científicos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Tema escolhido e pesquisado
+□ Pelo menos 3 fontes diferentes consultadas
+□ Resumo de 15-20 linhas com todos os elementos
+□ Fontes documentadas corretamente
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

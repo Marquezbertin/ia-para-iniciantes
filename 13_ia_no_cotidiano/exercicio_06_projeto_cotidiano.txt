@@ -1,0 +1,84 @@
+EXERCÍCIO 06: PROJETO — IA NO MEU DIA A DIA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 13 - IA no Cotidiano
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Projetar um uso inteligente e ético da IA para melhorar um aspecto da sua vida real.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos idealizar e planejar (concept) um serviço/app de IA que resolveria um problema real do seu cotidiano, de forma ética.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Identifique um problema (10 minutos)
+   - Pense em um problema real do seu dia a dia que a IA poderia ajudar a resolver:
+     * Estudar melhor
+     * Organizar tarefas
+     * Saúde/hábitos
+     * Criatividade
+     * Outro
+   - Escreva claramente o problema e para quem ele afeta
+
+Tarefa 2: Imagine a solução (15 minutos)
+   - Descreva a solução de IA:
+   1. O que faz (funcionalidades)
+   2. Como usa IA (que tipo)
+   3. Que dados precisa
+   4. Como o usuário interage
+   5. Como a empresa/desenvolvedor se sustentaria
+
+Tarefa 3: Avalie a ética (15 minutos)
+   - Aplique os princípios éticos:
+   1. É justo? Quem pode ser excluído?
+   2. Que dados coleta? Consentimento?
+   3. É transparente?
+   4. Pode causar dano?
+   5. Como mitigar riscos?
+
+Tarefa 4: Apresente (5 minutos)
+   - Escreva um resumo do seu projeto (parágrafo)
+   - Escolha um nome criativo
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi projetar algo com IA?
+
+2. Quais desafios éticos você encontrou ao projetar?
+
+3. Você construiria isso de verdade? Como?
+
+4. Que impacto positivo você espera que ele teria?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Foque num problema específico, não "resolver o mundo"
+
+Dica 2: Pense no usuário real e suas dificuldades
+
+Dica 3: Considere como os dados são coletados e usados desde o início
+
+Dica 4: Um bom projeto é útil E ético
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Problema identificado e descrito
+□ Solução detalhada (5 pontos)
+□ Avaliação ética (5 pontos)
+□ Resumo com nome criativo
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

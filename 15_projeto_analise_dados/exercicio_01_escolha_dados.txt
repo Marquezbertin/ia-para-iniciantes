@@ -1,0 +1,80 @@
+EXERCÍCIO 01: ESCOLHENDO OS DADOS DO PROJETO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Escolher um conjunto de dados reais e planejar a análise.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Todo projeto de dados começa com a escolha de bons dados. Vamos escolher um tema interessante e viável.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escolha o tema (10 minutos)
+   - Escolha UM tema do seu interesse:
+     * Clima da sua cidade
+     * Educação (IDEB, matrículas)
+     * Esporte (resultados)
+     * Transporte/trânsito
+     * Seus hábitos (estudo, sono, tempo)
+     * Outro
+   - Justifique POR QUE escolheu esse tema
+
+Tarefa 2: Encontre a fonte de dados (15 minutos)
+   - Pesquise e liste 2-3 possíveis fontes de dados para o tema
+   - Opções:
+     * https://dados.gov.br
+     * https://www.ibge.gov.br
+     * https://www.kaggle.com
+     * Coleta própria
+   - Para cada fonte, descreva:
+     * Que dados oferece
+     * Em que formato (CSV, tabela)
+     * Se é realista baixar/usar para o curso
+
+Tarefa 3: Defina as perguntas (5 minutos)
+   - Escreva 3 perguntas que você gostaria de responder com os dados
+   - Ex: "A temperatura média está subindo nos últimos 5 anos?"
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é importante escolher dados do seu interesse?
+
+2. O que faz um conjunto de dados ser "bom" para análise?
+
+3. Como verificar se os dados são confiáveis?
+
+4. Que impacto sua análise poderia ter?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Escolha algo que você goste — motiva a análise
+
+Dica 2: Verifique se os dados estão em formato acessível (CSV/Excel)
+
+Dica 3: Confira se os dados são confiáveis (fonte oficial)
+
+Dica 4: Formule perguntas claras para guiar a análise
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Tema escolhido e justificado
+□ 2-3 fontes listadas com descrição
+□ 3 perguntas de análise definidas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

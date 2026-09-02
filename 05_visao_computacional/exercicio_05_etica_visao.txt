@@ -1,0 +1,76 @@
+EXERCÍCIO 05: ÉTICA EM VISÃO COMPUTACIONAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 05 - Visão Computacional
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Refletir criticamente sobre os usos éticos e antiéticos da visão computacional.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A visão computacional pode ser usada para o bem (diagnóstico médico) mas também tem usos problemáticos (vigilância, deepfakes). Vamos pensar criticamente.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Cenários éticos (15 minutos)
+   - Para cada cenário, decida se você considera ACEITÁVEL ou PROBLEMÁTICO e justifique:
+   1. Câmeras em shopping detectando rostos de pessoas em "lista de suspeitos"
+   2. Aplicativo que identifica plantas para ajudar na jardinagem
+   3. Empresa de RH que analisa entrevista pela câmera do candidato
+   4. Câmeras em espelhos de lojas detectando emoções dos clientes
+   5. Carro autônomo que precisa desviar ou atropelar um pedestre
+
+Tarefa 2: Deepfakes (10 minutos)
+   - Pesquise o que são deepfakes
+   - Descreva:
+     * Como funcionam (visão computacional + geração)
+     * Usos positivos
+     * Usos problemáticos
+     * Como se proteger deles
+
+Tarefa 3: Vieses (bonus)
+   - Pesquise casos de IA de visão com viés (erros por etnia, gênero, idade)
+   - Escreva sua opinião sobre como corrigir (diversidade de dados, regulamentação)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Quem deve ser responsável pelos erros de uma IA que "vê"?
+
+2. Você aceitaria ser monitorado por câmeras que detectam suas emoções?
+
+3. Como garantir que a visão computacional beneficie a todos, não só alguns?
+
+4. O que você faria se descobrisse um deepfake seu?
+
+5. Existe um limite ético para o que a máquina pode "ver"?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em quem é afetado e quem decide
+
+Dica 2: Consentimento individual é um princípio importante
+
+Dica 3: Deepfakes usam redes neurais para criar vídeos falsos realistas
+
+Dica 4: Vieses vêm dos dados de treinamento não diversos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 cenários classificados e justificados
+□ Pesquisa sobre deepfakes (usos positivos, negativos, proteção)
+□ Pesquisa sobre vieses e opinião escrita (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

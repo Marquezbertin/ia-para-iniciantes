@@ -1,0 +1,72 @@
+EXERCÍCIO 02: AMBIGUIDADE NA LINGUAGEM
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender o desafio da ambiguidade na linguagem e como o contexto ajuda a IA a resolvê-la.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Muitas palavras e frases têm múltiplos significados. Para as máquinas entenderem, precisam de contexto. Vamos explorar esse desafio.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Encontre as ambiguidades (10 minutos)
+   - Para cada frase, liste os possíveis significados:
+   1. "O banco fechou cedo"
+   2. "Vamos pegar o trem hoje"
+   3. "A manga da camisa rasgou"
+   4. "Ele bateu a chapa hoje"
+   5. "O tempo está bom hoje"
+
+Tarefa 2: Desambiguidade (10 minutos)
+   - Para cada frase acima, escreva uma frase adicional que dê CONTEXTO
+   - Mostre como o contexto muda o significado
+   - Exemplo: "O banco fechou cedo" → "Fui sacar dinheiro mas o banco fechou cedo" (instituição)
+
+Tarefa 3: Teste com a IA (bonus)
+   - Pergunte ao ChatGPT: "O que significa a palavra 'banco'?"
+   - Depois: "O que significa 'banco' na frase 'fui ao banco sacar dinheiro'?"
+   - Compare as respostas e documente a diferença
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como os humanos resolvem ambiguidade automaticamente?
+
+2. Quais situações de ambiguidade são mais difíceis para máquinas?
+
+3. Que erros de IA você já viu por causa de ambiguidade?
+
+4. A IA poderia usar mais contexto (tons de voz, gestos) para melhorar? Como?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O contexto é a "dica" que a IA usa para interpretar
+
+Dica 2: Tudo que depende de interpretação é difícil para máquina
+
+Dica 3: Perguntas ao ChatGPT com duas variantes (com/sem contexto) mostram na prática
+
+Dica 4: Pense em palavras homônimas (manga, banco, cano, etc.)
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 frases com múltiplos significados listados
+□ 5 frases de contexto criadas para desambiguar
+□ Teste da IA documentado (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

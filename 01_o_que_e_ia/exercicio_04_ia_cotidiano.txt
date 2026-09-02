@@ -1,0 +1,82 @@
+EXERCÍCIO 04: IA NO NOSSO DIA A DIA
+
+Dificuldade: ⭐ Fácil
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Identificar e analisar a presença da IA em各种 situações do cotidiano.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA está em todo lugar, muitas vezes de forma invisível. Vamos mapear onde a IA está presente no nosso dia a dia e entender como ela melhora (ou complica) nossas vidas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Diário de IA (10 minutos)
+   - Durante o próximo dia, anote TODOS os momentos que você usou IA
+   - Inclua:
+     * Que aplicativo ou serviço usou
+     * O que a IA fez por você
+     * Se deu certo ou não
+   - Exemplo: "WhatsApp - Corretor ortográfico corrigiu minha mensagem"
+
+Tarefa 2: Comparativo (10 minutos)
+   - Escolha 3 situações e compare:
+   
+   Situação 1: Pedir direção para uma pessoa vs. usar Waze
+   - Qual é mais eficiente?
+   - Quais são as vantagens e desvantagens?
+   
+   Situação 2: Assistente de voz vs. digitar no Google
+   - Quando um é melhor que o outro?
+   - Que situações você prefere cada um?
+   
+   Situação 3: Recomendação de Netflix vs. pedir indicação para um amigo
+   - As recomendações da Netflix são boas?
+   - O que falta para a IA entender seus gostos?
+
+Tarefa 3: Mapa de IA (bonus)
+   - Desenhe um mapa ou diagrama mostrando onde a IA está na sua casa
+   - Inclua: celular, TV, eletrodomésticos, internet, etc.
+   - Conecte cada item com uma seta mostrando como a IA funciona nele
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Você já teve alguma experiência ruim com IA? O que aconteceu?
+
+2. A IA facilita ou dificulta sua vida? Dê exemplos concretos.
+
+3. Você confiaria em uma IA para tomar decisões importantes (como escolher faculdade)?
+
+4. Como a IA mudou a forma como você consome entretenimento?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Olhe para o seu celular - quantos aplicativos usam IA?
+
+Dica 2: Pense em todas as vezes que o corretor ortográfico te ajudou
+
+Dica 3: Analise as recomendações do YouTube - por que você recebe aquelas sugestões?
+
+Dica 4: Use o ChatGPT para perguntar "Quais são as principais aplicações de IA no cotidiano?"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Diário de IA completo com pelo menos 5 entradas
+□ Comparativo das 3 situações com vantagens/desvantagens
+□ Mapa de IA na casa (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,76 @@
+EXERCÍCIO 04: DESEMPREGO E MUDANÇAS NO TRABALHO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 12 - IA e Ética
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Analisar o impacto da IA no emprego e pensar em como se preparar para o futuro.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA automatiza tarefas e muda o mundo do trabalho. Vamos pensar criticamente sobre esse impacto e como nos preparar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Analise profissões (15 minutos)
+   - Para cada profissão, classifique como ALTA, MÉDIA ou BAIXA probabilidade de ser afetada pela IA e justifique:
+   1. Caixa de supermercado
+   2. Motorista de ônibus
+   3. Professor
+   4. Enfermeiro
+   5. Designer gráfico
+   6. Advogado
+   7. Psicólogo
+   8. Programador
+
+Tarefa 2: O que a IA não faz (10 minutos)
+   - Liste 5 habilidades que a IA ainda não tem (ou tem dificuldade) e que serão valiosas:
+     * Ex: empatia, criatividade, julgamento ético
+   - Para cada, explique por que a IA teria dificuldade
+
+Tarefa 3: Seu plano (5 minutos)
+   - Escreva 3 coisas que você pode começar a fazer agora para se preparar para trabalhar com IA
+   - Ex: aprender a programar, pensamento crítico
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. A IA vai criar mais empregos do que destruir? Discuta.
+
+2. O que é mais importante: aprender coisas que a IA não faz ou aprender a usá-la?
+
+3. Como a sociedade deveria se preparar para as mudanças?
+
+4. Quais profissões do futuro você imagina?
+
+5. Trabalhar juntamente com uma IA é possível? Dê exemplo.
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Tarefas repetitivas e previsíveis são mais facilmente automatizáveis
+
+Dica 2: Habilidades humanas (empatia, julgamento, criatividade) são valiosas
+
+Dica 3: A IA pode ser uma FERRAMENTA que potencializa o trabalho humano
+
+Dica 4: Educação contínua é a chave
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 8 profissões classificadas e justificadas
+□ 5 habilidades humanas listadas e explicadas
+□ 3 ações de preparação
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

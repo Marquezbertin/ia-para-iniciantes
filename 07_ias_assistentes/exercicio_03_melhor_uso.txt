@@ -1,0 +1,72 @@
+EXERCÍCIO 03: USANDO IAS DE FORMA EFICAZ
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aprender a usar as IAs assistentes de forma produtiva em diferentes cenários.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs podem ser ótimas aliadas para estudar, criar e resolver problemas - se usadas corretamente. Vamos explorar usos produtivos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Use como tutor (10 minutos)
+   - Escolha uma matéria que você tem dificuldade
+   - Peça à IA: "Explique [assunto] como se você fosse meu tutor particular"
+   - Depois: "Me faça 3 perguntas para testar se entendi"
+   - Interaja até entender bem
+
+Tarefa 2: Use para criar (10 minutos)
+   - Peça brainstorming: "Me dê 10 ideias de [tema que você gosta]"
+   - Peça para expandir a melhor ideia
+   - Peça um formato específico (listar vantagens/desvantagens)
+
+Tarefa 3: Use para planejar (10 minutos)
+   - Peça para organizar algo:
+     * "Monte um roteiro de viagem para 2 dias em [cidade]"
+     * "Organize uma lista de tarefas para minha semana"
+     * "Crie um cronograma de estudos"
+   - Avalie a utilidade da resposta
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Em qual tarefa a IA foi mais útil? Por quê?
+
+2. A IA pode ajudar com tudo ou há limites?
+
+3. Como você diferencia ajuda da IA de "deixar a IA fazer por você"?
+
+4. Que hábitos produtivos com IA você gostaria de desenvolver?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Trate a IA como um assistente/parceiro, não como substituta do seu esforço
+
+Dica 2: Use-a para ENTENDER e REFINAR, não só para gerar de pronto
+
+Dica 3: Peça para explicar erros: "por que minha frase está errada?"
+
+Dica 4: O aprendizado acontece quando você REFLETE sobre as respostas
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Uso como tutor documentado (explicação + perguntas teste)
+□ Brainstorming e expansão de ideias documentados
+□ Planejamento e avaliação da utilidade
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

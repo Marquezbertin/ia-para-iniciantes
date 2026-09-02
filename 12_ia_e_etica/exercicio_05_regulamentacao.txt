@@ -1,0 +1,74 @@
+EXERCÍCIO 05: REGULAMENTAÇÃO DA IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 12 - IA e Ética
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender as iniciativas de regulamentação da IA no Brasil e no mundo.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Sem regras claras, a IA pode causar danos dificilmente reparáveis. Vamos estudar como governos estão regulando a IA.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Conceitos (10 minutos)
+   - Responda com suas palavras:
+   1. O que é regulamentação de IA?
+   2. Por que é necessária?
+   3. O que é "transparência algorítmica"?
+   4. O que é "responsabilidade algorítmica"?
+
+Tarefa 2: Pesquisa (15 minutos)
+   - Pesquise e resuma:
+   1. O que é a LGPD no Brasil (foco em dados)
+   2. Em que estágio está a regulamentação de IA no Brasil (projetos de lei)
+   3. O que é o EU AI Act (União Europeia) e seus principios
+   4. Existe regulamentação de IA nos EUA? Em que nível?
+
+Tarefa 3: Sua proposta (5 minutos)
+   - Escreva 3 regras que você incluiria numa regulamentação de IA
+   - Justifique cada uma
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Regular demais pode atrasar a inovação? Como equilibrar?
+
+2. As leis acompanham a velocidade da IA?
+
+3. Quem deve fiscalizar as IAs?
+
+4. Como você poder incentivar a regulamentação responsável?
+
+5. O Brasil deveria ter lei específica de IA? Por quê?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Regulamentação já existe em parte (LGPD para dados)
+
+Dica 2: A Europa (AI Act) é pioneira em regular IA de forma abrangente
+
+Dica 3: Transparência = saber que é IA e como decide
+
+Dica 4: Responsabilidade = alguém responde pelos danos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 4 conceitos respondidos
+□ Pesquisa de LGPD + IA no Brasil + AI Act + EUA
+□ 3 regras propostas e justificadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

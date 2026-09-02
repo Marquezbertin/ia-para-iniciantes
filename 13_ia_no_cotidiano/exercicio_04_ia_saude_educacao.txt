@@ -1,0 +1,72 @@
+EXERCÍCIO 04: IA NA SAÚDE E EDUCAÇÃO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 13 - IA no Cotidiano
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Explorar como a IA é usada na saúde e na educação, e seus limites.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA pode ajudar médicos e professores, mas onde estão seus limites? Vamos investigar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise IA na saúde (15 minutos)
+   - Pesquise e descreva como a IA ajuda em:
+   1. Diagnóstico de imagens médicas (raios-X, tomografia)
+   2. Descoberta de medicamentos
+   3. Monitoramento de pacientes
+   - Para cada, diga: o que é capaz e o que NÃO pode fazer sozinha
+
+Tarefa 2: Pesquise IA na educação (10 minutos)
+   - Pesquise e descreva como a IA é usada em:
+   1. Aprendizado adaptativo (ex: Duolingo, Khan Academy)
+   2. Tutores virtuais
+   3. Correção automática
+   - Dê um exemplo de cada
+
+Tarefa 3: Limites (5 minutos)
+   - Em que situações a IA de saúde/educação deve ter um humano por perto?
+   - Por quê?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Você confiaria numa IA para diagnosticar uma doença?
+
+2. A IA pode substituir professores? E médicos? Por quê?
+
+3. Como a IA pode democratizar educação e saúde?
+
+4. Onde a IA pode ampliar desigualdades nesses campos?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: IA médica é auxílio ao diagnóstico, não o diagnóstico final
+
+Dica 2: Aprendizado adaptativo personaliza o ritmo
+
+Dica 3: Tutores virtuais disponíveis 24h ajudam no estudo
+
+Dica 4: Julgamento humano e empatia são insubstituíveis
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 3 usos na saúde descritos (capacidade/limite)
+□ 3 usos na educação descritos com exemplos
+□ Análise dos limites (humano presente)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

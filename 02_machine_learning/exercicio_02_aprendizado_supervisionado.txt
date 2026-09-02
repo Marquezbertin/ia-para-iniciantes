@@ -1,0 +1,73 @@
+EXERCÍCIO 02: APRENDIZADO SUPERVISIONADO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 02 - Machine Learning
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o aprendizado supervisionado e suas aplicações práticas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+O aprendizado supervisionado é o tipo mais comum de ML. Ele usa dados rotulados (com respostas conhecidas) para ensinar o computador a prever resultados em dados novos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Crie seu próprio classificador (15 minutos)
+   - Escolha UM problema de classificação:
+     * Classificar mensagens (importante/urgente)
+     * Classificar animais (mamífero/réptil/pássaro)
+     * Classificar alimentos (saudável/não saudável)
+   - Crie 10 exemplos de treinamento com as respostas corretas
+   - Crie 5 novos casos para testar
+   - Escreva as "regras" que o computador aprendeu
+
+Tarefa 2: Teste o Teachable Machine (10 minutos)
+   - Acesse: teachablemachine.withgoogle.com
+   - Crie um modelo para reconhecer 2-3 objetos ou gestos
+   - Treine com fotos e teste
+   - Escreva o que observou sobre como funciona
+
+Tarefa 3: Registre o processo (bonus)
+   - Documente passo a passo como você criou o classificador
+   - Inclua: dados, treinamento, testes e resultado
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que precisamos de dados rotulados no aprendizado supervisionado?
+
+2. O que acontece se os dados de treinamento forem errados?
+
+3. Quantos exemplos você acha que são necessários para aprendizado adequado?
+
+4. Quais problemas do seu dia a dia poderiam ser resolvidos com aprendizado supervisionado?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em classificações que você faz mentalmente o tempo todo
+
+Dica 2: Comece com 2 categorias simples antes de adicionar mais
+
+Dica 3: O Teachable Machine tem tutorial passo a passo
+
+Dica 4: Considere o que acontece com exemplos ambíguos ou fronteiriços
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Classificador criado com 10 exemplos de treinamento
+□ 5 casos de teste criados e classificados
+□ Teste do Teachable Machine documentado
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

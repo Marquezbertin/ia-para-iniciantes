@@ -1,0 +1,75 @@
+EXERCÍCIO 06: MACHINE LEARNING NO MUNDO REAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 02 - Machine Learning
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Identificar casos reais de uso de ML em empresas brasileiras e no mundo.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Empresas usam ML para resolver problemas reais todos os dias. Vamos explorar casos concretos, especialmente no Brasil.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise casos reais (15 minutos)
+   - Pesquise 5 empresas que usam ML (brasileiras ou globais)
+   - Para cada uma, identifique:
+     * Nome da empresa
+     * Setor (varejo, saúde, finanças, etc.)
+     * Problema que o ML resolve
+     * Tipo de ML usado
+
+Tarefa 2: Caso particular (10 minutos)
+   - Escolha UMA empresa e pesquise em detalhes
+   - Escreva uma análise de 10 linhas:
+     * Como a empresa usa ML
+     * Resultados alcançados
+     * Desafios enfrentados
+     * Sua opinião sobre a solução
+
+Tarefa 3: ML no Brasil (bonus)
+   - Pesquise empresas brasileiras que usam ML
+   - Liste pelo menos 3: Nubank, iFood, Magazine Luiza, etc.
+   - Descreva como cada uma usa ML
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que as empresas investem tanto em ML?
+
+2. Que impacto isso tem nos empregos?
+
+3. Como o uso de ML pode beneficiar ou prejudicar os clientes?
+
+4. Vocẽ acha que empresas brasileiras estão avançadas em IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O Nubank usa ML para detectar fraudes
+
+Dica 2: O iFood usa ML para prever delivery e recomendar restaurantes
+
+Dica 3: Use o Google para pesquisar "empresas brasileiras que usam inteligência artificial"
+
+Dica 4: Pense no impacto: ML eficiente = menos custos = preços melhores
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 empresas pesquisadas com todas as informações
+□ Análise detalhada de 1 empresa específica
+□ Lista de empresas brasileiras que usam ML (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

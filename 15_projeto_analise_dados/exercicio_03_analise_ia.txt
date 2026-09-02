@@ -1,0 +1,72 @@
+EXERCÍCIO 03: ANÁLISE COM O APOIO DA IA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar a IA (ChatGPT etc.) como parceira para aprofundar a análise dos dados.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos usar a IA para interpretar os dados e sugerir análises — sempre verificando as respostas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Descreva os dados à IA (15 minutos)
+   - Cole para a IA um resumo dos seus dados (colunas e estatísticas)
+   - Pergunte: "Com base nesses dados, o que você sugere que eu analise? Quais padrões você vê?"
+   - Registre as sugestões da IA
+
+Tarefa 2: Faça perguntas específicas (15 minutos)
+   - Pergunte à IA sobre suas 3 perguntas do exercício 01:
+   * "Como eu analiso se [pergunta]? Que comandos/python eu uso?"
+   * "Com base nos dados, o que você conclui sobre [pergunta]?"
+   - Execute códigos sugeridos e verifique
+   - Registre as respostas
+
+Tarefa 3: Verifique (10 minutos)
+   - As respostas/sugestões da IA faziam sentido? Estavam corretas?
+   - Alguma conclusão da IA estava errada ou exagerada?
+   - O que você teve que corrigir?
+   - Documente a verificação
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como a IA ajudou a análise?
+
+2. Em que pontos a IA errou ou exagerou?
+
+3. Como você garante que as conclusões da IA são confiáveis?
+
+4. Qual é o papel humano vs. da IA na análise?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Dê à IA os dados/estatísticas para contexto
+
+Dica 2: Peça sugestões de análises e códigos
+
+Dica 3: SEMPRE verifique os códigos e conclusões da IA
+
+Dica 4: A IA é parceira, mas o entendimento final é seu
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Resumo dado à IA + sugestões registradas
+□ Perguntas feitas e códigos executados/verificados
+□ Verificação documentada (erros/exageros)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

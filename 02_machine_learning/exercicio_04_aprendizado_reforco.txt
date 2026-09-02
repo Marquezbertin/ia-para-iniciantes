@@ -1,0 +1,72 @@
+EXERCÍCIO 04: APRENDIZADO POR REFORÇO
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 02 - Machine Learning
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o aprendizado por reforço, um dos tipos mais avançados de ML.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+O aprendizado por reforço funciona como treinar um animal com recompensas. O computador tenta ações, recebe recompensas ou punições, e aprende qual estratégia é melhor.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Simulação mental (15 minutos)
+   - Imagine uma IA que aprende a jogar o jogo da velha
+   - Descreva:
+     * 3 ações que ela pode tentar primeiro (e qual recompensa espera)
+     * Como ela descobre que "centro" é uma boa jogada
+     * Como ela aprende a não fazer a mesma jogada errada
+
+Tarefa 2: Aplique o reforço no seu aprendizado (10 minutos)
+   - Pense em algo que você aprendeu (jogar, tocar instrumento, esporte)
+   - Descreva:
+     * As recompensas e punições que você recebeu
+     * Como você ajustou sua estratégia
+     * Quantas tentativas foram necessárias
+
+Tarefa 3: Pesquisa sobre AlphaGo (bonus)
+   - Pesquise como o AlphaGo aprendeu a jogar Go
+   - Escreva 5 fatos interessantes sobre como ele treinou
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que o reforço é bom para jogos mas difícil para tarefas do mundo real?
+
+2. O que acontece quando a recompensa é mal definida?
+
+3. Você acha que carros autônomos deveriam usar reforço? Por quê?
+
+4. Como escolhemos recompensas éticas para IAs? (Por exemplo: incentivar dirigir seguro vs. chegar rápido)
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no loop: estado → ação → recompensa → novo estado
+
+Dica 2: A jogada do centro no jogo da velha leva a mais vitórias
+
+Dica 3: Recompensas precisam ser cuidadosamente definidas para não gerar comportamentos indesejados
+
+Dica 4: Pesquise "AlphaGo" para um exemplo incrível de reforço
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Simulação do jogo da velha completa (3 ações, descoberta do centro, correção)
+□ Aplicação no aprendizado pessoal completa
+□ Pesquisa sobre AlphaGo (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

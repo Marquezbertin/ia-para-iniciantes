@@ -1,0 +1,77 @@
+EXERCÍCIO 06: NLP EM PORTUGUÊS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Explorar os desafios e oportunidades do NLP para o idioma português.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A maioria dos modelos de IA foi treinada em inglês. Vamos investigar como isso afeta o português e quais são os desafios.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste com gírias brasileiras (10 minutos)
+   - Use o ChatGPT com estas frases e veja se ele entende:
+   1. "Tô de boa, mano"
+   2. "Bora marcar um rolê?"
+   3. "Esse aí é mó cara de pau"
+   4. "Fica na paz, tá?"
+   5. "Uai, sô, que trem bão!"
+   - Avalie se a IA entendeu o significado
+
+Tarefa 2: Desafios do português (10 minutos)
+   - Pesquise e anote 5 características do português que são difíceis para NLP:
+     * Gênero (o/a) e como afeta contexto
+     * Conjugações verbais complexas
+     * Palavras com múltiplos significados
+     * Regionalismos
+     * Pontuação e acentuação
+   - Dê um exemplo de cada
+
+Tarefa 3: Comparação de idiomas (bonus)
+   - Traduza uma frase com gíria brasileira para o inglês
+   - Veja se o sentido é mantido
+   - Explique o que se perdeu na tradução
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a maioria das IAs é treinada em inglês?
+
+2. Como isso afeta os brasileiros?
+
+3. O que você pode fazer para ajudar a melhorar o NLP em português?
+
+4. A IA que você usa entende seu contexto cultural brasileiro?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Obserque que as gírias de diferentes regiões podem confundir a IA
+
+Dica 2: O português tem conjugações verbais muito mais complexas que o inglês
+
+Dica 3: Veja se a IA responde de forma "adaptada" ao Brasil ou se parece genérica
+
+Dica 4: Pesquise "BERT português modelo linguagem"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 gírias testadas com avaliação
+□ 5 desafios do português pesquisados com exemplos
+□ Comparação de tradução (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

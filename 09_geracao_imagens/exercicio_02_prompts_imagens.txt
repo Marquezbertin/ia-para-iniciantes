@@ -1,0 +1,75 @@
+EXERCÍCIO 02: CRIANDO PROMPTS DE IMAGEM
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aprender a criar prompts de imagem eficazes, com sujeito, ambiente, estilo e detalhes.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Prompt de imagem é uma arte: quanto mais claro e específico, melhor o resultado. Vamos praticar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Identifique os componentes (10 minutos)
+   - Para o prompt abaixo, identifique: SUJEITO, AMBIENTE, ESTILO, DETALHES
+
+   "Ilustração em estilo aquarela de um tucano colorido pousado em um galho
+   na floresta amazônica, com folhas verdes ao redor, luz suave do amanhecer,
+   pena detalhada, fundo desfocado"
+
+Tarefa 2: Escreva 3 prompts (10 minutos)
+   - Escreva três prompts completos (com sujeito, ambiente, estilo e detalhes):
+   1. Uma cena de futebol de rua no Brasil
+   2. Uma cidade futurista brasileira
+   3. Uma geração de arte sobre esporte __que escolher__
+   
+   - Para cada, escreva 4-6 linhas
+
+Tarefa 3: Teste e refine (10 minutos)
+   - Se tiver acesso a uma IA de imagem, teste 1-2 prompts
+   - Veja o resultado
+   - Refine adicionando ou removendo detalhes
+   - Documente as melhorias
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que mais detalhes melhoram o resultado?
+
+2. O que acontece quando o prompt é muito vago?
+
+3. Como descrever o ESTILO ajuda?
+
+4. Você consegue "controlar" totalmente a imagem gerada?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em quê a IA precisa saber para desenhar cada elemento
+
+Dica 2: Descreva claramente o que quer, evite ambiguidade
+
+Dica 3: Estilos: "realista", "aquarela", "cartoon", "anime", "3D", "pintura a óleo"
+
+Dica 4: Detalhes de iluminação e cor fazem muita diferença
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Componentes identificados no prompt exemplo
+□ 3 prompts completos escritos
+□ Teste e refinamento documentados (se houver acesso)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

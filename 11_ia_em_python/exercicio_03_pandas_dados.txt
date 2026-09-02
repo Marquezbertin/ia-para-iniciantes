@@ -1,0 +1,90 @@
+EXERCÍCIO 03: ANÁLISE DE DADOS COM PANDAS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 11 - IA em Python
+Tempo estimado: 35 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar Pandas para carregar, explorar e analisar dados com Python.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+O Pandas é essencial para analisar dados antes de usar na IA. Vamos praticar na prática.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Crie dados com Pandas (15 minutos)
+   - No Colab, execute:
+
+   ```
+   import pandas as pd
+
+   dados = pd.DataFrame({
+       'aluno': ['Ana', 'Beto', 'Carla', 'Duda'],
+       'idade': [14, 15, 14, 16],
+       'nota_matematica': [8, 6, 9, 7],
+       'nota_ciencias': [9, 5, 8, 8]
+   })
+
+   print(dados.head())
+   print(dados.dtypes)
+   print(dados.describe())
+   ```
+
+   - Registre os resultados
+
+Tarefa 2: Explore (15 minutos)
+   - Rode e interprete os comandos:
+   ```
+   print(dados['nota_matematica'].mean())   # média de matemática
+   print(dados['nota_ciencias'].max())      # maior nota de ciências
+   print(dados[dados['idade'] > 14])         # alunos com mais de 14 anos
+   print(dados.sort_values('nota_matematica', ascending=False))  # ordenar
+   ```
+   - Anote qual aluno tirou a maior nota em matemática
+   - Qual a média de cada matéria
+
+Tarefa 3: Crie seus próprios dados (bonus)
+   - Crie um DataFrame sobre algo do seu interesse (jogos, músicas, filmes)
+   - Calcule: média, máximo, mínimo de uma coluna numérica
+   - Filtre um subconjunto
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como o Pandas facilita a análise de dados?
+
+2. O que o método describe() mostrou de útil?
+
+3. Por que entender os dados é importante ANTES de treinar uma IA?
+
+4. Que insights você tirou dos dados alunos?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: DataFrame = tabela com colunas e linhas
+
+Dica 2: dados['coluna'] acessa uma coluna
+
+Dica 3: describe() traz estatísticas básicas (média, min, max...)
+
+Dica 4: Filtros como dados[dados['idade']>14] selecionam linhas
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ DataFrame criado e resultados de head/dtypes/describe registrados
+□ 4 explorações executadas e interpretadas
+□ DataFrame próprio criado (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

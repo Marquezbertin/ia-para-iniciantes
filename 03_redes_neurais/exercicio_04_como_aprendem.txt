@@ -1,0 +1,70 @@
+EXERCÍCIO 04: COMO AS REDES NEURAIS APRENDEM
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 03 - Redes Neurais
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o processo de feedforward, cálculo de erro e backpropagation.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As redes neurais não são programadas - elas APRENDEM. Vamos entender o ciclo de aprendizado e como os pesos das conexões são ajustados.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Simule o ciclo de aprendizado (20 minutos)
+   - Descreva o ciclo completo para a rede identificar números escritos à mão:
+   1. Feedforward: número "3" entra, rede dá uma previsão errada ("5")
+   2. Cálculo do erro: a diferença é identificada
+   3. Backpropagation: o erro é usado para ajustar os pesos
+   4. Repetição do ciclo
+   
+   - Descreva o que MELHORA no segundo, terceiro e milésimo ciclo
+
+Tarefa 2: Identifique os sinais (10 minutos)
+   - Pesquise e defina:
+     * Overfitting (quando a rede decora em vez de aprender)
+     * Underfitting (quando a rede não aprende o suficiente)
+     * Época (uma passagem completa pelos dados)
+     * Função de perda (erro)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a rede precisa de MUITAS repetições (épocas)?
+
+2. Como saber se a rede aprendeu bem ou só decorou (overfitting)?
+
+3. O que acontece se o erro nunca diminui?
+
+4. Como decidimos a quantidade ideal de repetições (épocas)?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no aprendizado como afinar um instrumento musical
+
+Dica 2: Overfitting = decorou os exemplos mas não generaliza para novos
+
+Dica 3: Teste sempre em dados que a rede NÃO viu durante o treino
+
+Dica 4: Pesquise "feedforward backpropagation explain" para vídeos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Ciclo de aprendizado descrito em detalhe (4 etapas)
+□ Descrição da melhoria ao longo dos ciclos
+□ Definições corretas de overfitting, underfitting, época e perda
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

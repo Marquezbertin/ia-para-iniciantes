@@ -1,0 +1,80 @@
+EXERCÍCIO 06: APRESENTAÇÃO FINAL DO PROJETO
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Apresentar o projeto completo de análise de dados de forma organizada e clara.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Todo o trabalho de análise precisa de uma boa apresentação. Vamos montar o relatório final do projeto.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Estruture o relatório (15 minutos)
+   - Monte o relatório final com as seções:
+   1. **Título e objetivo** — o que você analisou e por quê
+   2. **Dados** — fonte, como coletou, como limpar
+   3. **Método** — como analisou (Pandas, IA, gráficos)
+   4. **Resultados** — gráficos e descobertas
+   5. **Conclusões** — as 3 conclusões principais
+   6. **Limitações** — o que não dá para garantir
+   7. **Aprendizados** — o que você descobriu sobre o processo
+
+Tarefa 2: Escreva (20 minutos)
+   - Escreva o relatório completo com base nas seções
+   - Inclua os gráficos (screenshots)
+   - Seja claro e organize tudo
+
+Tarefa 3: Prepare a apresentação (10 minutos)
+   - Escreva um resumo de 1 minuto do seu projeto (para apresentar oralmente):
+     * O que analisou
+     * Como
+     * O que descobriu
+   - Se possível, inclua 1 gráfico chave
+   - Compartilhe com colegas e peça feedback
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi fazer um projeto completo de análise de dados?
+
+2. O que você aprendeu sobre o processo de ir dos dados às conclusões?
+
+3. Como a IA se encaixou no processo?
+
+4. Que outro projeto de dados você gostaria de fazer?
+
+5. Como você aplicaria essa habilidade em outras áreas da vida?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Um bom relatório conta uma história clara
+
+Dica 2: Gráficos ajudam a comunicar
+
+Dica 3: Seja honesto sobre limitações
+
+Dica 4: Esse projeto é um ótimo item de portfólio
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Relatório estruturado com 7 seções
+□ Relatório completo escrito (com gráficos)
+□ Resumo oral de 1 minuto preparado
+□ Feedback de colegas (se possível)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

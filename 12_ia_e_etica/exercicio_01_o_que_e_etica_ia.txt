@@ -1,0 +1,69 @@
+EXERCÍCIO 01: O QUE É ÉTICA EM IA?
+
+Dificuldade: ⭐ Fácil
+Módulo: 12 - IA e Ética
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o conceito de ética aplicada à inteligência artificial.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA pode fazer muito bem, mas também pode causar danos. Vamos entender o que significa usar IA de forma ética.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é ética em IA
+   - Dê um exemplo de IA usada eticamente e um de forma antiética
+
+Tarefa 2: Liste os princípios (5 minutos)
+   - Liste os 6 princípios da IA ética mencionados no módulo
+   - Para cada, explique em 1 linha o que significa
+
+Tarefa 3: Analise situações (5 minutos)
+   - Para cada, diga se é ético ou não e por quê:
+   1. IA que recomenda produtos respeitando seus dados
+   2. IA que decide quem recebe empréstimo sem explicação
+   3. IA que detecta doenças precocemente
+   4. IA que cria deepfakes de pessoas famosas
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a IA, que é uma ferramenta, precisa de ética?
+
+2. A responsabilidade pelos erros é do programa ou das pessoas?
+
+3. Como você sabe se uma IA está sendo justa?
+
+4. "Se a IA pode fazer, deve fazer?" Discuta.
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Ética = fazer o que é certo, não só o que é possível
+
+Dica 2: A IA reflete as escolhas de quem a cria
+
+Dica 3: Pense no impacto sobre as pessoas
+
+Dica 4: Considere quem é prejudicado e quem é beneficiado
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição de ética em IA com exemplos
+□ 6 princípios listados e explicados
+□ 4 situações analisadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

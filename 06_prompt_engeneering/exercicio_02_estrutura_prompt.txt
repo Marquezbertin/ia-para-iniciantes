@@ -1,0 +1,72 @@
+EXERCÍCIO 02: ESTRUTURANDO PROMPTS EFICAZES
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aprender a estruturar prompts com papel, tarefa, contexto, formato e limitações.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Um prompt bem estruturado gera respostas muito melhores. Vamos aprender a montar prompts completos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Identifique os componentes (10 minutos)
+   - Para cada prompt, identifique se contém: PAPEL, TAREFA, CONTEXTO, FORMATO, LIMITAÇÃO
+
+   Prompt A: "Explique o que é gravidade"
+   Prompt B: "Você é um professor de física. Explique gravidade para um aluno de 13 anos, usando uma analogia com bola e trampolim, em 5 linhas."
+   Prompt C: "Escreva uma lista de 3 ideias de festa de aniversário para uma pessoa que gosta de videogames. Seja criativo."
+
+Tarefa 2: Construa seus prompts (15 minutos)
+   - Crie um prompt completo (com os 5 componentes) para cada situação:
+   1. Explicar frações para seu irmão de 8 anos
+   2. Pedir ideias de lanche saudável
+   3. Refazer um texto que você escreveu deixando-o mais formal
+   4. Resolver seu dever de ciências sobre o sistema solar
+   - Escreva o prompt e depois o que você espera que a IA responda
+
+Tarefa 3: Teste (bonus)
+   - Execute pelo menos 2 dos seus prompts no ChatGPT
+   - Avalie se a resposta atendeu ao que você esperava
+   - Ajuste os prompts se necessário
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Qual componente do prompt você acha mais importante? Por quê?
+
+2. Por que incluir o "papel" (persona) ajuda a IA?
+
+3. O que acontece se você omitir o formato desejado?
+
+4. Quando seus prompts falharam, o que estava faltando?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Papel: "Você é..." / Tarefa: "Explique/Escreva/Crie..." / Contexto: "sou X anos" / Formato: "use lista/tabela/de 5 linhas" / Limitação: "não use termos técnicos"
+
+Dica 2: Não precisa encher - use os que forem relevantes
+
+Dica 3: Teste e itere - a prática melhora o resultado
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Componentes identificados nos 3 prompts dados
+□ 4 prompts completos criados (com os 5 elementos)
+□ 2 prompts testados e avaliados (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

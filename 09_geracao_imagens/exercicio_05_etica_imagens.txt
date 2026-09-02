@@ -1,0 +1,74 @@
+EXERCÍCIO 05: ÉTICA NA GERAÇÃO DE IMAGENS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Refletir sobre as questões éticas da geração de imagens por IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A geração de imagens levanta sérias questões éticas: direitos autorais, deepfakes, representação e consentimento.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Analise os dilemas éticos (15 minutos)
+   - Para cada cenário, decida se considera aceitável e justifique:
+   1. Um artista usa IA para criar arte e vende
+   2. Alguém cria um deepfake de um famoso
+   3. Uma empresa usa imagens geradas por IA sem citar
+   4. Criar uma imagem falsa de si mesmo
+   5. Treinar uma IA com arte protegida sem permissão
+
+Tarefa 2: Pesquise um caso (10 minutos)
+   - Pesquise um caso real de uso ético ou antiético de geração de imagens
+   - Descreva:
+     * O que aconteceu
+     * Os impactos
+     * Sua opinião
+
+Tarefa 3: Crie suas próprias regras (5 minutos)
+   - Escreva 5 regras pessoais sobre como você usaria geração de imagem com responsabilidade
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Uma imagem gerada por IA é "arte"? Justifique.
+
+2. Quem é dono de uma imagem gerada por IA?
+
+3. Como distinguir o uso criativo do uso enganoso?
+
+4. As leis acompanham o avanço da IA?
+
+5. Onde está a linha entre inspiração e cópia?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no consentimento: quem está envolvido, permitiu?
+
+Dica 2: Deepfakes podem causar danos reais - use com empatia
+
+Dica 3: A transparência (dizer que é IA) é um bom princípio
+
+Dica 4: Respeite o trabalho dos artistas humanos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 cenários analisados e justificados
+□ Caso real pesquisado e descrito
+□ 5 regras pessoais criadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

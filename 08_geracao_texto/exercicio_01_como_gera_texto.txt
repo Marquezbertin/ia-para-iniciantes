@@ -1,0 +1,72 @@
+EXERCÍCIO 01: COMO AS IAS GERAM TEXTO
+
+Dificuldade: ⭐ Fácil
+Módulo: 08 - Geração de Texto
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como as IAs geram texto, palavra por palavra.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs não "pensam" como nós - elas geram texto prevendo a próxima palavra. Vamos entender esse processo.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Explique com suas palavras (5 minutos)
+   - Explique em 3-4 linhas como a IA gera texto
+   - Use a analogia do texto preditivo do celular
+   - Mencione por que a IA "inventa" palavras seguintes
+
+Tarefa 2: Experimento de previsão (10 minutos)
+   - Complete as frases abaixo com o que VOCÊ prevê:
+   1. "Era uma vez um reino muito ______"
+   2. "Para fazer um bolo, primeiro ______"
+   3. "O João ficou triste porque ______"
+   - Agora peça ao ChatGPT para completar as MESMAS frases
+   - Compare - a IA previu como você?
+
+Tarefa 3: Reflita sobre a temperatura (bonus)
+   - Peça ao ChatGPT a MESMA pergunta 2 vezes: "Dê uma ideia de história"
+   - Veja se as respostas são iguais ou diferentes
+   - Explique por que podem variar
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Se a IA prevê palavras, ela realmente "entende" o que escreve?
+
+2. Como a IA escolhe entre várias palavras prováveis?
+
+3. Por que ela às vezes produz frases que parecem reais mas são inventadas?
+
+4. Uma IA pode ser criativa se só combina padrões?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA "decide" a próxima palavra baseada em probabilidades aprendidas
+
+Dica 2: Isso explica as alucinações - ela segue padrões mesmo sem fatos
+
+Dica 3: A temperatura muda a aleatoriedade das escolhas
+
+Dica 4: Peça a MESMA pergunta duas vezes para ver a variabilidade
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Explicação de como a IA gera texto
+□ 3 frases completadas por você e pela IA (com comparação)
+□ Teste de variabilidade (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

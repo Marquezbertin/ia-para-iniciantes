@@ -1,0 +1,86 @@
+EXERCÍCIO 04: VISUALIZAÇÃO DOS DADOS
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Criar gráficos para visualizar os dados e comunicar as descobertas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Um gráfico vale por mil palavras. Vamos criar visualizações dos dados com Matplotlib.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Configure os gráficos (10 minutos)
+   - No Colab, instale/importe:
+   ```
+   import matplotlib.pyplot as plt
+   ```
+
+Tarefa 2: Crie 2-3 gráficos (25 minutos)
+   - Escolha os gráficos mais adequados para seus dados:
+   * **Gráfico de linha:** tendência ao longo do tempo
+   ```
+   plt.plot(df['ano'], df['valor'])
+   plt.xlabel('Ano'); plt.ylabel('Valor'); plt.title('Tendência')
+   plt.show()
+   ```
+   * **Gráfico de barras:** comparar categorias
+   ```
+   plt.bar(df['categoria'], df['valor'])
+   plt.show()
+   ```
+   * **Histograma:** distribuição de valores
+   ```
+   plt.hist(df['coluna'])
+   plt.show()
+   ```
+   - Execute e registre (screenshots)
+   - Ajuste títulos e rótulos
+
+Tarefa 3: Interprete (5 minutos)
+   - Para cada gráfico, escreva o que ele mostra:
+     * O que se destaca?
+     * Que tendência/insight aparece?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Qual gráfico comunicou melhor sua descoberta?
+
+2. Um gráfico pode enganar? Como?
+
+3. Como a visualização torna a análise mais clara?
+
+4. Que outro gráfico seria útil para seus dados?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Linha = tendência no tempo; Barras = comparar; Histograma = distribuição
+
+Dica 2: Sempre rotule eixos e dê título
+
+Dica 3: Use a IA para sugerir qual gráfico usar
+
+Dica 4: Capture os gráficos para usar na apresentação
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Matplotlib importado
+□ 2-3 gráficos criados (com títulos/rótulos)
+□ Interpretação de cada gráfico
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

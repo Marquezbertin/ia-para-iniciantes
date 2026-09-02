@@ -1,0 +1,76 @@
+EXERCÍCIO 04: REESCRITA E REFINAMENTO DE TEXTOS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 08 - Geração de Texto
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar a IA para melhorar e refinar textos, mantendo sua voz e intenção.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA pode transformar um texto rascunho em um texto polido, e também ajustar tom, tamanho e estilo. Vamos praticar esse fluxo.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escreva um texto rascunho (5 minutos)
+   - Escreva UM texto sobre um tema que te interessa (5-8 linhas)
+   - Pode ser opinião, resumo, experiência
+   - Não se preocupe com perfeição agora
+
+Tarefa 2: Refine com a IA (15 minutos)
+   - Peça à IA em sequência:
+   1. "Reescreva deixando mais claro e formal"
+   2. "Agora deixe mais curto (metade)"
+   3. "Agora deixe mais divertido/engajador para redes sociais"
+   4. "Corrija erros de português e liste o que corrigiu"
+   - Registre cada versão
+
+Tarefa 3: Compare e escolha (10 minutos)
+   - Compare os textos originais e as versões da IA
+   - Identifique:
+     * O que melhorou
+     * O que se perdeu (sua voz, emoção, detalhes?)
+     * Qual versão você escolheria para usar?
+   - Finalize um texto que combine o melhor de tudo (seu + IA)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. A IA preservou sua intenção/emoção original?
+
+2. O que se perde quando a IA refina um texto?
+
+3. Como você manteria sua "voz" mesmo com ajuda da IA?
+
+4. Para que tipo de texto a reescrita da IA é mais útil?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Guarde sua versão original - é importante
+
+Dica 2: A IA pode melhorar a gramática e estrutura, mas não sua vivência
+
+Dica 3: Combine o melhor de cada versão
+
+Dica 4: Observe quando o texto fica "sem alma" e reconecte
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Texto rascunho original escrito
+□ 4 refinamentos da IA registrados
+□ Comparação original vs. refinado (melhorou/perdeu)
+□ Texto final combinado (seu + IA)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,92 @@
+EXERCÍCIO 04: LENDO JSON DE RESPOSTAS DE IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 10 - API de IA
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aprender a ler e interpretar respostas JSON retornadas por APIs de IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+APIs retornam dados em formato JSON. Para usar uma API de IA, você precisa saber extrair a resposta do JSON.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Entenda JSON (10 minutos)
+   - Explique com suas palavras o que é JSON
+   - Identifique os componentes (chaves, valores, arrays)
+
+Tarefa 2: Analise esta resposta JSON (15 minutos)
+```json
+{
+  "id": "chatcmpl-123",
+  "model": "gpt-4o",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Brasília é a capital do Brasil."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 12,
+    "completion_tokens": 8,
+    "total_tokens": 20
+  }
+}
+```
+
+   - Responda:
+   1. Qual é a resposta gerada (o texto da IA)?
+   2. Qual o caminho (o "caminho" de chaves) para chegar a essa resposta?
+   3. Quantos tokens foram usados no total?
+   4. Qual modelo foi usado?
+
+Tarefa 3: Extraia manualmente (5 minutos)
+   - Escreva o "caminho" do conteúdo:
+   Ex: `resposta["choices"][0]["message"]["content"]`
+   - Explique o que cada nível significa
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que as APIs retornam JSON em vez de apenas texto?
+
+2. O que o "role: assistant" significa?
+
+3. Por que os tokens são informados na resposta?
+
+4. Como um programador saberia qual campo usar?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: JSON = pares de "chave": "valor"
+
+Dica 2: Arrays [] contêm listas; objetos {} contêm pares
+
+Dica 3: Para acessar: resposta.choices[0].message.content
+
+Dica 4: A resposta da IA está em choices[0].message.content
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Explicação de JSON
+□ Respostas corretas às 4 perguntas sobre o JSON
+□ Caminho de extração escrito e explicado
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

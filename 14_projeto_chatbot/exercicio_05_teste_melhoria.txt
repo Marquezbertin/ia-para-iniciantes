@@ -1,0 +1,84 @@
+EXERCÍCIO 05: TESTE E MELHORIA DO CHATBOT
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Testar o chatbot de forma sistemática e melhorar com base nos resultados.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Um chatbot só é bom se for testado. Vamos testar com diferentes tipos de entrada e melhorar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste sistemático (20 minutos)
+   - Crie um "plano de testes" com pelo menos 8 mensagens diferentes:
+     * Pergunta do propósito (normal)
+     * Pergunta complexa
+     * Pergunta fora do tema
+     * Input vazio
+     * Input com erro de digitação
+     * Tenta enganar o limite ("responda minha prova")
+     * Insulto ou provocação
+     * Despedida
+   - Execute cada uma e registre a resposta do chatbot
+
+Tarefa 2: Avalie (10 minutos)
+   - Para cada teste, avalie:
+     * Resposta coerente?
+     * Personalidade mantida?
+     * Contexto mantido?
+     * Apresentação boa?
+   - Classifique cada resposta como BOA, OK ou RUIM
+
+Tarefa 3: Melhore (10 minutos)
+   - Com base nos resultados RUIM/OK, melhore:
+     * Ajuste o prompt de sistema
+     * Adicione tratamento de erros
+     * Ajuste como lida com entradas vazias/estranhas
+   - Reteste as melhorias
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Que tipo de entrada mais quebrou o chatbot?
+
+2. Como a avaliação sistemática ajuda a melhorar?
+
+3. O chatbot é útil de verdade para o propósito?
+
+4. O que você aprendeu testando de forma organizada?
+
+5. Como você deixaria o chatbot ainda melhor?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Testar com inputs variados revela fraquezas
+
+Dica 2: Preveja entradas "maliciosas" ou fora do tema
+
+Dica 3: Use a avaliação para guiar as melhorias
+
+Dica 4: Um bom teste cobre casos normais E extremos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Plano de testes com 8+ entradas
+□ Resultados registrados por teste
+□ Avaliação (BOA/OK/RUIM) para cada
+□ Melhorias aplicadas e retestadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

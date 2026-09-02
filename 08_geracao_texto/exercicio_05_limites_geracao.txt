@@ -1,0 +1,70 @@
+EXERCÍCIO 05: LIMITES DA GERAÇÃO DE TEXTO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 08 - Geração de Texto
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Identificar os limites da geração de texto: alucinações, viés, falta de atualização.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs de texto geram conteúdo impressionante, mas têm limites sérios. É crucial saber quando NÃO confiar nelas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste as limitações (20 minutos)
+   - Faça perguntas que expõem os limites e registre as respostas:
+   1. Fatos recentes: "Quem ganhou a última Copa do Mundo?" (verifique a data!)
+   2. Números: "Qual a população exata do Brasil hoje?" (a IA pode aproximar)
+   3. Citações: "Me dê uma citação famosa de Dom Pedro II" (pode inventar)
+   4. Evento inexistente: "O que aconteceu no festival [invente um]?"
+   5. Opinião subjetiva: "O que é melhor, Linux ou Windows?" (verifique vieses)
+
+Tarefa 2: Analise as respostas (10 minutos)
+   - Para cada resposta, determine:
+     * A IA tem certeza? (tom confiante?)
+     * Foi preciso ou inventou?
+     * Você conseguiria verificar a informação?
+   - Conclua: quais respostas você confiaria e quais não?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como você percebe que a IA está alucinando (inventando)?
+
+2. Por que é perigoso usar texto de IA sem verificar?
+
+3. Quais informações da IA você SEMPRE deveria checar?
+
+4. Como você pode se proteger de fake news geradas por IA?
+
+5. Em que situações o texto de IA é confiável o suficiente?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA é melhor em conceitos gerais que em fatos específicos/recentes
+
+Dica 2: Desconfie quando ela cita dados muito específicos sem fonte
+
+Dica 3: Verifique fatos importantes em fontes confiáveis
+
+Dica 4: Desenvolva o hábito do pensamento crítico com IA
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 perguntas-teste registradas com respostas
+□ Análise de cada resposta (confiável ou não)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

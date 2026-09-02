@@ -1,0 +1,77 @@
+EXERCÍCIO 03: GPS E ASSISTENTES DE VOZ
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 13 - IA no Cotidiano
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como GPS (navegação) e assistentes de voz usam IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos analisar como o Waze/Maps encontra a melhor rota e como o assistente de voz entende você.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Análise do GPS (10 minutos)
+   - Abra o Waze ou Google Maps
+   - Insira um destino que você conhece
+   - Observe:
+     * Quantas rotas ele sugere
+     * Se mostra o trânsito/tempo estimado
+     * Se ajusta a rota durante o trajeto
+   - Registre suas observações sobre como a IA ajuda
+
+Tarefa 2: Teste o assistente de voz (10 minutos)
+   - Use o assistente do seu celular (Google/Siri) para:
+     1. "Qual é a capital do Brasil?"
+     2. "Toque uma música de [artista]"
+     3. "Defina um alarme para amanhã às 8h"
+     4. "Como está o clima hoje?"
+   - Registre o que funcionou e o que não
+
+Tarefa 3: Entenda o fluxo (10 minutos)
+   - Explique com suas palavras o fluxo de um assistente de voz:
+   1. Como o áudio é convertido em texto
+   2. Como a intenção é entendida
+   3. Como a ação é executada
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como a IA sabe qual rota é mais rápida?
+
+2. Por que o assistente às vezes erra a palavra falada?
+
+3. Quais comandos de voz são mais confiáveis e quais menos?
+
+4. O GPS "aprende" com seus hábitos? Como?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Mapas usam dados em tempo real de milhões de usuários
+
+Dica 2: Assistentes: áudio → texto → intenção → ação
+
+Dica 3: Sotaques e ruído atrapalham o reconhecimento de voz
+
+Dica 4: Como você usa, a IA aprende seus padrões
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Análise do GPS documentada
+□ 4 comandos de voz testados e registrados
+□ Fluxo do assistente explicado (3 etapas)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

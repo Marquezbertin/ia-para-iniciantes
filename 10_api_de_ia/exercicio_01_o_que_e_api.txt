@@ -1,0 +1,70 @@
+EXERCÍCIO 01: O QUE É UMA API?
+
+Dificuldade: ⭐ Fácil
+Módulo: 10 - API de IA
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o conceito de API e sua importância.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+APIs são a ponte entre os programas. Vamos entender o que são e por que são essenciais.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é uma API
+   - Use a analogia do restaurante/garçom
+   - Explique por que APIs são úteis
+
+Tarefa 2: Identifique APIs no dia a dia (10 minutos)
+   - Pense em apps que você usa e como eles "conversam" via API:
+   1. Uber: o app usa API para calcular rotas (Google Maps API)
+   2. Instagram: usa API para postar
+   3. Spotify: integra com outros apps
+   - Liste 5 exemplos de apps que usam APIs e o que a API faz
+
+Tarefa 3: Analogia própria (bonus)
+   - Crie sua própria analogia para explicar API
+   - Explique como ela funciona
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é melhor usar uma API já pronta do que criar do zero?
+
+2. O que aconteceria se não existissem APIs?
+
+3. Quem você acha que mantém e cobra pelas APIs?
+
+4. Você gostaria de criar uma API algum dia? Para quê?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: API = regras para programas conversarem
+
+Dica 2: O "menu" da API é a documentação
+
+Dica 3: Quase todo app moderno usa APIs
+
+Dica 4: APIs economizam tempo e dinheiro
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de API (3-4 linhas)
+□ 5 exemplos de apps que usam APIs
+□ Analogia própria criada (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

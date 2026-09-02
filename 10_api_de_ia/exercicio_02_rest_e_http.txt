@@ -1,0 +1,78 @@
+EXERCÍCIO 02: REST E MÉTODOS HTTP
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 10 - API de IA
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender o estilo REST e os métodos HTTP usados em APIs.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+APIs modernas usam REST e HTTP. Vamos entender as operações básicas e como funcionam.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Entenda os métodos (10 minutos)
+   - Para cada situação, escolha o método HTTP mais adequado (GET, POST, PUT/PATCH, DELETE):
+   1. Ler uma lista de receitas → _______________
+   2. Criar uma nova receita → _______________
+   3. Atualizar o ingrediente de uma receita → _______________
+   4. Remover uma receita → _______________
+   5. Buscar o perfil de um usuário → _______________
+   - Explique o raciocínio de cada escolha
+
+Tarefa 2: Monte uma URL de API (10 minutos)
+   - Considere uma API de uma escola com recurso "alunos"
+   - Escreva URLs para:
+   1. Listar todos os alunos
+   2. Buscar um aluno específico (id = 42)
+   3. Criar um novo aluno
+   4. Buscar os cursos do aluno 42
+   - Use formato: https://api.escola.com/v1/...
+
+Tarefa 3: Entenda o formato (5 minutos)
+   - Explique com suas palavras:
+     * O que é um endpoint
+     * O que é o "body" de uma requisição
+     * Quando um body é necessário
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que os métodos HTTP são padronizados?
+
+2. O que diferencia GET de POST no uso prático?
+
+3. Por que as URLs das APIs têm "/v1/"? (versionamento)
+
+4. Como você sabe o que uma URL de API pode fazer?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: GET = ler, POST = criar, PUT/PATCH = atualizar, DELETE = remover
+
+Dica 2: Endpoint = o caminho específico na URL
+
+Dica 3: Body = os dados que você envia junto (no POST/PUT)
+
+Dica 4: APIs costumam ter "v1", "v2" para versionar
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 situações com método HTTP correto e justificado
+□ URLs da API de escola montadas
+□ Explicação de endpoint/body
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

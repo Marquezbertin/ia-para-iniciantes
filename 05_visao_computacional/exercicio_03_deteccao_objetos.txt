@@ -1,0 +1,72 @@
+EXERCÍCIO 03: DETECÇÃO DE OBJETOS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 05 - Visão Computacional
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender e praticar a detecção de objetos, uma das aplicações mais comuns da visão computacional.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Sistemas de detecção de objetos localizam e identificam objetos dentro de uma imagem, desenhando "caixas" ao redor deles. Vamos entender como funciona na prática.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Exercício de atenção (10 minutos)
+   - Escolha uma foto de uma rua movimentada ou de uma sala
+   - Liste TODOS os objetos que a olho nu você identifica
+   - Compare com um amigo - vocês encontraram os mesmos objetos?
+   - O que você notou sobre objetos difíceis de detectar (pequenos, escuros, escondidos)?
+
+Tarefa 2: Descreva como um sistema de detecção funcionaria (10 minutos)
+   - Para a mesma imagem, descreva:
+   1. Quais objetos um sistema de detecção automaticamente acharia
+   2. Quais passaria despercebidos (por quê)
+   3. Que dificuldades teria (iluminação, objetos pequenos, sobreposição)
+
+Tarefa 3: Teste com o Google Lens (bonus)
+   - Use o Google Lens em uma foto com vários objetos
+   - Veja quais objetos ele detecta automaticamente
+   - Toque em cada objeto e observe o que acontece
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que detectar objetos pequenos ou distantes é difícil?
+
+2. Como a sobreposição de objetos afeta a detecção?
+
+3. Em que situações a detecção automática de objetos é útil? E perigosa?
+
+4. Quais erros um sistema de detecção comete e quais as consequências?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense no que "salta aos olhos" vs. o que "se esconde" na imagem
+
+Dica 2: A iluminação muda muito a detecção
+
+Dica 3: O Google Lens detecta e te dá informações sobre o que vê
+
+Dica 4: Compare com a percepção humana - somos muito bons em detectar objetos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Lista de objetos de uma foto
+□ Comparação com um amigo documentada
+□ Descrição da detecção automática (achei/não achei)
+□ Teste do Google Lens (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

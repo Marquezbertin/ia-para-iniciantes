@@ -1,0 +1,85 @@
+EXERCÍCIO 03: ESCREVENDO O CÓDIGO DO CHATBOT
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Escrever o código do chatbot com loop de conversa e tratamento de saída.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Agora vamos transformar o acesso à API em um chatbot funcional com um loop de conversa.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escreva o código básico (20 minutos)
+   - No Colab, escreva e execute o loop do chatbot:
+   ```
+   import google.generativeai as genai
+
+   genai.configure(api_key="SUA_KEY")
+   model = genai.GenerativeModel("gemini-pro")
+
+   print("=== CHATBOT ===")
+   print("Digite sua mensagem ('sair' para encerrar)")
+
+   while True:
+       user = input("Você: ")
+       if user.lower() == "sair":
+           print("Chatbot: Até logo!")
+           break
+       response = model.generate_content(user)
+       print("Chatbot:", response.text)
+   ```
+   - Execute e teste
+
+Tarefa 2: Adicione tratamento (15 minutos)
+   - Melhore o código:
+     * Trate entradas vazias (se o usuário digitar nada, avise)
+     * Adicione um comando "ajuda" que explica como usar
+     * Encerre com uma mensagem amigável
+   - Teste as melhorias
+
+Tarefa 3: Documente falhas (5 minutos)
+   - Registre: o que funcionou, o que quebrou, como corrigiu
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como funciona o loop infinio? Por que ele continua?
+
+2. Por que o comando de saída é importante?
+
+3. O que acontece quando a API dá erro?
+
+4. Como você faria o chatbot lembrar da conversa anterior?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O "while True" cria o loop; o break sai dele
+
+Dica 2: input() espera o usuário digitar
+
+Dica 3: Trate erros com try/except para não quebrar
+
+Dica 4: Para lembrar contexto, envie o histórico junto
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Código do chatbot executado e testado
+□ Tratamentos adicionados (vazio, ajuda, saída) e testados
+□ Documentação de falhas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

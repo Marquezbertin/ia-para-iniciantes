@@ -1,0 +1,68 @@
+EXERCÍCIO 02: SISTEMAS DE RECOMENDAÇÃO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 13 - IA no Cotidiano
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Analisar e entender como funcionam os sistemas de recomendação que você usa.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Spotify, Netflix, YouTube e lojas usam recomendações. Vamos analisar como elas te conhecem.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Analise seu feed (10 minutos)
+   - Abra a página inicial do YouTube, Netflix ou Spotify
+   - Registre 5 recomendações que aparecem
+   - Para cada, tente adivinhar POR QUE a IA sugeriu (baseado no seu histórico)
+
+Tarefa 2: Tente fugir do padrão (15 minutos)
+   - Procure ativamente por um conteúdo BEM diferente do seu usual (ex: outro gênero musical)
+   - Observe se a recomendação muda
+   - Note se é fácil ou difícil "escapar" da bolha
+
+Tarefa 3: Analise (5 minutos)
+   - Por que você acha que a IA recomenda o que recomenda?
+   - Dá para identificar se é mais "colaborativa" (baseada em outras pessoas) ou "conteúdo" (parecido com o que você viu)?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Essas recomendações ajudam ou prendem você numa "bolha"?
+
+2. Você perde oportunidades de descobrir coisas novas por causa da IA?
+
+3. As empresas recomendam para te agradar ou para lucrar?
+
+4. Como você usaria a IA para ampliar (não limitar) seus horizontes?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA usa seu histórico + comportamento de pessoas parecidas
+
+Dica 2: Tudo que você clica (ou não) é dado para o algoritmo
+
+Dica 3: Busque ativamente coisas diferentes para testar a bolha
+
+Dica 4: Pense no que o feed "supõe" sobre você
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 recomendações registradas com suposição de porquê
+□ Teste de "fugir do padrão" documentado
+□ Análise colaborativa vs. conteúdo
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

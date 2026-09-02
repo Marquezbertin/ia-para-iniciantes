@@ -1,0 +1,76 @@
+EXERCÍCIO 03: PRIVACIDADE E VIGILÂNCIA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 12 - IA e Ética
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Refletir sobre privacidade, coleta de dados e vigilância na era da IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA precisa de dados, e seus dados valem muito. Vamos refletir sobre privacidade, consentimento e vigilância.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Mapa de dados (10 minutos)
+   - Liste tudo que as empresas sabem sobre você via seus apps:
+     * Redes sociais (interesses, amigos, fotos)
+     * Apps de compra (hábitos, endereço)
+     * GPS (onde você está)
+     * Buscadores (o que pesquisa)
+   - Para cada um, escreva: o que sabem, como isso poderia ser usado
+
+Tarefa 2: Consentimento (10 minutos)
+   - Explique o que é consentimento real (vs. "concordo sem ler")
+   - Pesquise e resuma: o que é a LGPD no Brasil e que direitos ela dá
+     * Direito de saber quais dados
+     * Direito de excluir
+     * Direito de acesso
+
+Tarefa 3: Vigilância (10 minutos)
+   - Pesquise um exemplo de vigilância por IA (câmeras com reconhecimento facial)
+   - Apresente os argumentos A FAVOR e CONTRA
+   - Dê sua opinião
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. As empresas "ouvem" suas conversas? Há quanto tempo você desconfia disso?
+
+2. Vale a pena trocar privacidade por conveniência (app grátis)?
+
+3. Quem deveria controlar o uso de reconhecimento facial?
+
+4. Como você protegeria seus dados?
+
+5. O que é mais importante: segurança ou privacidade?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Se o app é grátis, o produto talvez seja SEUS dados
+
+Dica 2: LGPD (Lei Geral de Proteção de Dados) protege você no Brasil
+
+Dica 3: Leia as permissões que os apps pedem
+
+Dica 4: Pense: quem se beneficia com a vigilância?
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Mapa de dados (o que sabem, como usado)
+□ Explicação de consentimento + resumo da LGPD
+□ Vigilância: argumentos a favor/contra + opinião
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

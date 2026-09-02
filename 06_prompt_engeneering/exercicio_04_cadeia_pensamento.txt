@@ -1,0 +1,70 @@
+EXERCÍCIO 04: CADEIA DE PENSAMENTO (CHAIN OF THOUGHT)
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aplicar a técnica de cadeia de pensamento para melhorar a precisão em problemas de raciocínio.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Quando pedimos à IA para "pensar passo a passo", ela costuma resolver problemas com mais precisão. Vamos comparar e aplicar essa técnica.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste sem cadeia de pensamento (5 minutos)
+   - Pergunte ao ChatGPT: "Se 3 cadernos custam R$ 18, quanto custam 5 cadernos?"
+   - Registre como ele responde (ele pode já mostrar o passo a passo)
+
+Tarefa 2: Teste com cadeia de pensamento (10 minutos)
+   - Pergunte: "Se 3 cadernos custam R$ 18, quanto custam 5 cadernos? Pense passo a passo e mostre o raciocínio."
+   - Compare com a tarefa 1
+   - Documente a diferença na qualidade da explicação
+
+Tarefa 3: Aplique em outros problemas (15 minutos)
+   - Resolva estes com "pense passo a passo":
+   1. "Uma pizza tem 8 fatias. Se 12 pizzas são divididas igualmente entre 16 pessoas, quantas fatias cada um recebe?"
+   2. "O ônibus sai a cada 20 minutos. Se o primeiro sai às 7h, a que horas saem o 4º e o 5º ônibus?"
+   3. "Maria tem o dobro da idade de João. Se Maria tem 24 anos, quantos anos João tem? (explique)"
+   - Para cada um, escreva o raciocínio passo a passo (o seu ou o da IA)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que pedir o passo a passo melhora a resposta?
+
+2. Em que tipos de problema a cadeia de pensamento é mais útil?
+
+3. Há casos em que mostrar o pensamento é desnecessário ou ruim?
+
+4. Como você se aplicaria essa técnica para seus próprios estudos?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Frases como "pense passo a passo", "mostre o raciocínio" ativam a técnica
+
+Dica 2: A cadeia de pensamento melhora matemática, lógica, tomada de decisão
+
+Dica 3: Compare sempre com e sem a técnica para ver a diferença
+
+Dica 4: O raciocínio explícito também ajuda você a VER como a IA chega à resposta
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Teste sem cadeia de pensamento documentado
+□ Teste com cadeia de pensamento comparado
+□ 3 problemas resolvidos com passo a passo
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

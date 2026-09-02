@@ -1,0 +1,74 @@
+EXERCÍCIO 05: TIRANDO CONCLUSÕES
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Transformar a análise em conclusões claras, úteis e fundamentadas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A análise só tem valor se virar conclusões claras. Vamos organizar o que descobrimos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Reúna as descobertas (10 minutos)
+   - Liste TODAS as descobertas que você teve (do exercício 02, 03 e 04)
+   - Para cada, indique: o que descobriu e de onde (dados/gráfico/IA)
+
+Tarefa 2: Escreva as conclusões principais (15 minutos)
+   - Das descobertas, escolha as 3 MAIS importantes
+   - Para cada, escreva:
+   1. A conclusão (frase clara)
+   2. A evidência (dado/gráfico que apoia)
+   3. O que isso significa na prática (implicação)
+   - Responda suas 3 perguntas do exercício 01
+
+Tarefa 3: Reflita sobre limitações (5 minutos)
+   - Escreva as limitações da análise:
+     * Certa que os dados estão corretos?
+     * A amostra é representativa?
+     * Há outras explicações?
+   - Explique como isso afeta a confiança nas conclusões
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Quais conclusões são mais fortes (bem apoiadas)?
+
+2. Quais foram surpreendentes?
+
+3. Como você poderia confirmar suas conclusões?
+
+4. O que essa análise revelou sobre interpretação de dados?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Conclusão forte = evidência clara dos dados
+
+Dica 2: Seja honesto sobre as limitações
+
+Dica 3: Diferencie fato, interpretação e opinião
+
+Dica 4: Use a IA para revisar, mas conclua você
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Descobertas listadas com fonte
+□ 3 conclusões principais (frase + evidência + implicação)
+□ 3 perguntas do exercício 01 respondidas
+□ Limitações reconhecidas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

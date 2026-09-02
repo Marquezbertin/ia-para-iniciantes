@@ -1,0 +1,81 @@
+EXERCÍCIO 03: CONHECENDO AS FERRAMENTAS DE IMAGEM
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Conhecer as principais ferramentas de geração de imagem e diferenciá-las.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+DALL-E, Midjourney e Stable Diffusion são as principais ferramentas de geração de imagem. Vamos conhecê-las.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise (15 minutos)
+   - Pesquise e registre sobre cada ferramenta:
+   1. DALL-E (OpenAI)
+      * Como acessar
+      * Custo
+      * Estilo característico
+   2. Midjourney
+      * Como acessar
+      * Custo
+      * Estilo característico
+   3. Stable Diffusion
+      * Como acessar
+      * Custo
+      * Estilo característico
+
+Tarefa 2: Tabela comparativa (10 minutos)
+   - Crie uma tabela comparando as 3:
+     * Acesso
+     * Custo
+     * Facilidade
+     * Qualidade
+     * Estilo
+   - Indique qual escolheria para cada situação:
+     * Para um iniciante sem custo
+     * Para arte profissional
+     * Para quem quer controle total (open source)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que existem diferentes ferramentas com abordagens diferentes?
+
+2. Qual combina mais com você (e por quê)?
+
+3. O que "open source" significa e que vantagem dá?
+
+4. Como a concorrência entre ferramentas beneficia quem usa?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: DALL-E é o mais acessível para iniciantes (via ChatGPT)
+
+Dica 2: Midjourney é famoso pela qualidade artística
+
+Dica 3: Stable Diffusion roda localmente e é gratuito
+
+Dica 4: Pesquise exemplos na internet para comparar visualmente
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Pesquisa das 3 ferramentas (acesso, custo, estilo)
+□ Tabela comparativa completa
+□ Recomendação por situação
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

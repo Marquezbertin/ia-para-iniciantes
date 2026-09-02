@@ -1,0 +1,91 @@
+EXERCÍCIO 04: ADICIONANDO PERSONALIDADE AO CHATBOT
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Adicionar o "prompt de sistema" para dar personalidade e contexto ao chatbot.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Um chatbot genérico responde de qualquer jeito. Com um "prompt de sistema", você define quem ele é e como se comporta.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Use o seu prompt de sistema (20 minutos)
+   - Use o prompt de sistema que você escreveu no exercício 01
+   - No código, adicione o sistema. Exemplo com Gemini:
+   ```
+   import google.generativeai as genai
+
+   genai.configure(api_key="SUA_KEY")
+
+   model = genai.GenerativeModel("gemini-pro",
+       system_instruction="""
+       Você é a Prof. Nina, uma tutora amigável de matemática para estudantes
+       do ensino fundamental. Você explica passo a passo, usa exemplos do
+       cotidiano, é paciente e encorajadora. NUNCA entrega a resposta direto:
+       guia o estudante a pensar.
+       """
+   )
+
+   while True:
+       user = input("Você: ")
+       if user.lower() == "sair":
+           break
+       response = model.generate_content(user)
+       print("Chatbot:", response.text)
+   ```
+   - Teste com perguntas relacionadas ao propósito
+
+Tarefa 2: Verifique a consistência (10 minutos)
+   - Faça 3 perguntas ao chatbot e veja se mantém a personalidade:
+     1. Uma pergunta do propósito
+     2. Uma pergunta fora do tema (o que responde?)
+     3. Uma pergunta que testa os limites ("responde minha prova?")
+   - Registre se a personalidade foi mantida
+
+Tarefa 3: Ajuste (10 minutos)
+   - Se a personalidade não apareceu bem, ajuste o prompt de sistema
+   - Tente variações e documente qual funcionou melhor
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como a personalidade muda a conversa?
+
+2. O chatbot respeitou os limites que você definiu?
+
+3. Por que o "sistema" é mais forte que pedir na mensagem?
+
+4. Como você deixaria a personalidade mais consistente?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O prompt de sistema define regras permanentes da conversa
+
+Dica 2: Seja específico: tom, estilo, regras, limites
+
+Dica 3: Teste se ele mantém a persona em várias perguntas
+
+Dica 4: Refine o prompt até o comportamento desejado
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Prompt de sistema aplicado no código
+□ 3 perguntas de teste com verificação de personalidade
+□ Ajustes feitos e documentados
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

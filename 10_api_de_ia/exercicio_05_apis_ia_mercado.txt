@@ -1,0 +1,81 @@
+EXERCÍCIO 05: APIS DE IA NO MERCADO
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 10 - API de IA
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Conhecer as principais APIs de IA disponíveis no mercado.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Existem muitas APIs de IA no mercado. Vamos conhecer as principais e entender como escolhê-las.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise as principais APIs (15 minutos)
+   - Pesquise e registre sobre cada uma:
+   1. OpenAI API (gpt-4o, DALL-E)
+      * Modelos oferecidos
+      * Preço aproximado
+      * Facilidade de uso
+   2. Google Gemini API
+      * Modelos
+      * Preço / free tier
+   3. Anthropic API (Claude)
+      * Modelos
+      * Preço
+   4. Hugging Face Inference API
+      * O que é
+      * Modelos open source
+
+Tarefa 2: Compare (10 minutos)
+   - Crie uma tabela comparativa:
+     * Modelos
+     * Preço
+     * Tipo (texto, imagem, etc.)
+     * Dificuldade
+   - Indique qual escolheria para:
+     * Chatbot simples
+     * Análise de texto
+     * Geração de imagem
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que determina o custo de uma API de IA?
+
+2. Por que escolher uma API open source vs. paga?
+
+3. Como as empresas decidem qual API usar?
+
+4. Como você escolheria uma API para seu projeto?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Cada API tem diferentes modelos com diferentes preços
+
+Dica 2: OpenAI e Google têm docs completas e exemplos
+
+Dica 3: Hugging Face tem modelos gratuitos
+
+Dica 4: Compare caso de uso com custo
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Pesquisa das 4 APIs (modelos, preço, uso)
+□ Tabela comparativa criada
+□ Recomendação por cenário
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

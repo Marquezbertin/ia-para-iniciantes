@@ -1,0 +1,80 @@
+EXERCÍCIO 06: APRESENTAÇÃO FINAL DO CHATBOT
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 14 - Projeto: Chatbot
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Finalizar, documentar e apresentar o seu chatbot.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Todo projeto termina com documentação e apresentação. Vamos registrar tudo o que você construiu.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Finalize o chatbot (15 minutos)
+   - Garanta que o código está completo e funcional
+   - Verifique que:
+     * Loop de conversa funciona
+     * Comando de saída funciona
+     * Personalidade presente
+     * Tratamento de erros
+   - Faça uma captura de tela / registro da conversa final
+
+Tarefa 2: Documente (20 minutos)
+   - Escreva um relatório do projeto com:
+   1. Objetivo do chatbot
+   2. Público
+   3. Personalidade
+   4. Como funciona (loop, API)
+   5. Dificuldades encontradas e como resolveu
+   6. Resultados dos testes (pontos fortes e fracos)
+   7. O que melhoraria no futuro
+
+Tarefa 3: Demonstre (10 minutos)
+   - Escreva um diálogo de demonstração (5+ trocas) mostrando o chatbot funcionando
+   - Se possível, salve o código em um arquivo .py ou notebook
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi construir um projeto real do começo ao fim?
+
+2. Qual foi a parte mais difícil?
+
+3. O que você aprendeu que não sabia antes?
+
+4. Como você aplicaria isso em projetos futuros?
+
+5. Você se orgulha do seu chatbot? O que faria diferente?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Documente o processo — é parte do resultado
+
+Dica 2: Destaque o que VOCÊ decidiu e criou
+
+Dica 3: Seja honesto sobre as limitações
+
+Dica 4: Guarde o projeto (notebook/arquivo) como portfólio
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Chatbot final funcional e verificado
+□ Relatório completo (7 itens)
+□ Diálogo de demonstração (5+ trocas)
+□ Código salvo
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

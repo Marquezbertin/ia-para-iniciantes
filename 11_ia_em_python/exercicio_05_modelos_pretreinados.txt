@@ -1,0 +1,99 @@
+EXERCÍCIO 05: MODELOS PRÉ-TREINADOS COM HUGGING FACE
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 11 - IA em Python
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar um modelo pré-treinado de NLP com Hugging Face, sem precisar treinar do zero.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Modelos pré-treinados permitem usar IA avançada em poucas linhas. Vamos usar um de análise de sentimentos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Rode o código (15 minutos)
+   - No Colab, execute:
+
+   ```
+   # Instalar (pode levar um tempinho)
+   !pip install transformers
+   ```
+
+   ```
+   from transformers import pipeline
+
+   # Usar um modelo pré-treinado de análise de sentimento
+   analisador = pipeline("sentiment-analysis")
+
+   frases = [
+       "Estou muito feliz com esse curso!",
+       "Foi um dia terrível.",
+       "O produto é mediano.",
+       "Amo minha família."
+   ]
+
+   for f in frases:
+       resultado = analisador(f)
+       print(f"{f} -> {resultado}")
+   ```
+
+   - Registre os resultados
+
+Tarefa 2: Entenda (10 minutos)
+   - Responda:
+   1. O que significa "pré-treinado"?
+   2. O que a pipeline faz?
+   3. Por que não precisamos treinar nada?
+   4. O que significam os rótulos e o "score"?
+
+Tarefa 3: Explore (15 minutos)
+   - Modifique o código:
+     * Mude as frases para outras coisas que você escreveu
+     * Teste frases ambíguas: "Claro que eu confio em você"
+     * Teste sarcasmo: "Ótimo, mais uma hora de fila"
+   - Observe como o modelo reage a sarcasmo e negociação
+   - Registre se acertou ou errou
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Quão fácil foi usar uma IA avançada sem treinar nada?
+
+2. Onde o modelo "falhou" (sarcasmo, ambiguiade)?
+
+3. Que outros usos você imagina para modelos pré-treinados?
+
+4. Qual a diferença de esforço entre treinar e usar pré-treinado?
+
+5. Que dados você acha que esse modelo foi treinado?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pré-treinado = já treinado em muitos dados, pronto para usar
+
+Dica 2: pipeline() simplifica o uso de modelos
+
+Dica 3: O score indica a "confiança" do modelo
+
+Dica 4: Modelos têm dificuldade com sarcasmo/ambiguidade
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Código executado com resultados registrados
+□ 4 perguntas de entendimento respondidas
+□ Frases próprias e ambíguas/sarcásticas testadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

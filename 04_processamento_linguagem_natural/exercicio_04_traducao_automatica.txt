@@ -1,0 +1,75 @@
+EXERCÍCIO 04: TRADUÇÃO AUTOMÁTICA
+
+Dificuldade: ⭐ Fácil
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Explorar as capacidades e limitações da tradução automática.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As ferramentas de tradução como Google Translate são impressionantes, mas têm limitações, especialmente com expressões idiomáticas, gírias e contexto cultural.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste de tradução (15 minutos)
+   - Use o Google Translate para traduzir do português para o inglês:
+   1. "Estou morrendo de fome"
+   2. "Chovendo canivetes"
+   3. "Bater as botas"
+   4. "Melhor um pássaro na mão do que dois voando"
+   5. "Matar dois coelhos com uma cajadada"
+   - Traduza de volta para o português e veja se perdeu algo
+   - Anote os resultados e o que mudou
+
+Tarefa 2: Avalie a qualidade (5 minutos)
+   - Classifique cada tradução de 1 a 5 (5 = perfeita)
+   - Explique as dificuldades que cada frase apresenta
+
+Tarefa 3: Teste inverso (bonus)
+   - Traduza do inglês para português:
+   1. "It's raining cats and dogs"
+   2. "Break a leg"
+   3. "Piece of cake"
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que expressões idiomáticas são difíceis de traduzir?
+
+2. Quando a tradução automática é confiável? Quando não é?
+
+3. A tradução automática pode substituir tradutores humanos? Em quais casos?
+
+4. Como a IA deveria lidar com diferenças culturais na tradução?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Compare com o DeepL para ver diferenças de qualidade
+
+Dica 2: Traduza trechos de textos que você conhece (letras de música)
+
+Dica 3: Observe que o contexto cultural está embutido na linguagem
+
+Dica 4: O Google Translate usa modelos tentando entender o contexto, não traduz palavra por palavra
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 frases traduzidas e documentadas
+□ Classificação de qualidade 1-5 para cada
+□ Explicação das dificuldades
+□ Tradução inversa testada (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

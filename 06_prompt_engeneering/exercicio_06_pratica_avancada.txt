@@ -1,0 +1,81 @@
+EXERCÍCIO 06: PRÁTICA AVANÇADA COM PROMPTS
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aplicar todas as técnicas de prompt engineering em um cenário real e completo.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos combinar todas as técnicas aprendidas (estrutura, zero/few-shot, cadeia de pensamento) para resolver um problema real: criar um plano de estudos personalizado.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Planeje o prompt (10 minutos)
+   - Defina SEU problema: qual matéria você quer melhorar?
+   - Planeje um prompt completo para criar um plano de estudos:
+     * Papel (quem a IA deve "ser")
+     * Contexto (sua situação, dificuldades, tempo disponível)
+     * Tarefa (o que você quer)
+     * Formato desejado (tabela, lista, etc.)
+     * Limitações (o que evitar)
+
+Tarefa 2: Escreva e use o prompt (10 minutos)
+   - Escreva o prompt completo
+   - Execute no ChatGPT com a técnica de cadeia de pensamento ("pense passo a passo sobre o que eu preciso")
+
+Tarefa 3: Refine (20 minutos)
+   - Avalie a primeira resposta
+   - Faça pelo menos 2 iterações de refinamento:
+     * Troque ou ajuste o papel
+     * Adicione mais contexto (ex: "preciso melhorar em equações")
+     * Peça formato diferente
+     * Use few-shot mostrando um exemplo de plano ideal
+   - Documente as melhorias a cada iteração
+
+Tarefa 4: Verifique a precisão (bonus)
+   - Peça à IA para justificar suas recomendações com fontes
+   - Verifique se o plano faz sentido para sua realidade
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como as técnicas combinadas melhoraram o resultado?
+
+2. Qual técnica fez mais diferença no seu caso?
+
+3. Como você usaria esse plano na prática?
+
+4. Que outras tarefas reais você poderia resolver com prompt engineering?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Comece com um bom papel ("você é meu professor particular")
+
+Dica 2: Inclua dados pessoais (idade, matéria, tempo) como contexto
+
+Dica 3: Use few-shot se uma resposta anterior foi boa como modelo
+
+Dica 4: Itere - raramente a primeira resposta é perfeita
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Planejamento do prompt (papel, contexto, tarefa, formato, limitações)
+□ Prompt completo escrito e executado
+□ Mínimo 2 iterações de refinamento documentadas
+□ Verificação de precisão (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

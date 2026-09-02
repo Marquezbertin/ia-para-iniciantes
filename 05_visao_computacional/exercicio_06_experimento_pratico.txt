@@ -1,0 +1,84 @@
+EXERCÍCIO 06: EXPERIMENTO PRÁTICO COM VISÃO COMPUTACIONAL
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 05 - Visão Computacional
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Treinar um classificador de imagens simples usando o Teachable Machine e avaliar seus resultados.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos criar um modelo real de visão computacional que reconhece objetos e avaliar como ele funciona, incluindo seus erros.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Configure o classificador (10 minutos)
+   - Acesse: https://teachablemachine.withgoogle.com
+   - Crie um novo projeto de "Imagem"
+   - Crie 3 classes, por exemplo:
+     * Minha Câmera (objetos da sua mesa)
+     * Meu Atalho (objetos de outro local)
+     * Eu (sua mão, rosto, etc.)
+
+Tarefa 2: Treine (15 minutos)
+   - Treine cada classe com 30-50 imagens variadas
+   - Use diferentes ângulos, iluminação, posições
+   - Execute o treinamento
+   - Teste com:
+     * Objetos novos (não usados no treino)
+     * Objetos de ângulos diferentes
+     * Ambientes com luz diferente
+
+Tarefa 3: Avalie e documente (15 minutos)
+   - Registre:
+     * Quais objetos foram reconhecidos corretamente
+     * Quais confundiram o modelo
+     * A porcentagem de confiança para cada teste
+     * O que melhoraria o modelo (mais dados? mais variações?)
+   - Descreva 5 descobertas ou observações
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que alguns objetos foram reconhecidos melhor que outros?
+
+2. Como o ângulo e a iluminação afetaram os resultados?
+
+3. O que aconteceu com objetos parecidos entre classes?
+
+4. Como você deixaria esse modelo pronto para uso real?
+
+5. O que este experimento revela sobre limitações da visão computacional?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Tente testar com objetos que NÃO entraram no treino
+
+Dica 2: Use o mesmo objeto em ângulos diferentes para testar generalização
+
+Dica 3: Quanto mais variação no treino, melhor a generalização
+
+Dica 4: Observe a "confiança" em porcentagem que o modelo mostra
+
+Dica 5: Capture screenshots do seu modelo criado
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Classificador com 3 classes treinado
+□ Treinamento com 30-50 imagens variadas por classe
+□ Testes com objetos novos e ângulos variados
+□ Documentação com 5 descobertas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

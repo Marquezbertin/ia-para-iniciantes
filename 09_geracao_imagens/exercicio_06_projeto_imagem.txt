@@ -1,0 +1,81 @@
+EXERCÍCIO 06: PROJETO DE CRIAÇÃO DE IMAGEM
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Criar uma imagem artística completa usando IA, passando por todo o processo.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos produzir uma imagem completa com um objetivo claro e refinar o prompt até alcançar o resultado desejado.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina o objetivo (5 minutos)
+   - Escolha o que você quer criar. Exemplos:
+     * Capa para um projeto escolar
+     * Ilustração para um conto
+     * Poster inspirador
+     * Imagem de perfil criativa
+   - Defina: SUPJEITO, AMBIENTE, ESTILO, propósito
+
+Tarefa 2: Escreva o prompt detalhado (10 minutos)
+   - Escreva um prompt completo e detalhado
+   - Inclua: sujeito, ambiente, estilo, iluminação, cores, composição
+   - Revise para eliminar ambiguidades
+
+Tarefa 3: Gere e refine (20 minutos)
+   - Gere a imagem (se tiver acesso a ferramenta)
+   - Avalie o resultado:
+     * Atendeu ao objetivo?
+     * Algum erro (mãos, textos)?
+     * Estilo correto?
+   - Refine o prompt (pelo menos 2 iterações)
+   - Documente as mudanças e melhorias
+
+Tarefa 4: Apresentação (5 minutos)
+   - Escreva uma breve explicação da imagem final
+   - Descreva: intenção, elementos, escolhas
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi o processo de refinar até chegar ao resultado?
+
+2. O resultado final ficou como você imaginou? Por quê?
+
+3. O que é mais difícil: descrever o que você quer ou controlar o resultado?
+
+4. Como você usaria essa habilidade no futuro?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Seja específico e descritivo no prompt
+
+Dica 2: Adicione palavras de estilo e clima
+
+Dica 3: A primeira imagem raramente é a final - refine
+
+Dica 4: Documente o processo para mostrar seu trabalho
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Objetivo definido (sujeito, ambiente, estilo, propósito)
+□ Prompt completo e detalhado escrito
+□ Imagem gerada com refino (2+ iterações)
+□ Explicação da imagem final
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

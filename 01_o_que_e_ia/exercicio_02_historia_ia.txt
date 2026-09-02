@@ -1,0 +1,73 @@
+EXERCÍCIO 02: HISTÓRIA DA INTELIGÊNCIA ARTIFICIAL
+
+Dificuldade: ⭐ Fácil
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Conhecer os principais marcos na história da IA e entender como ela evoluiu.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A IA não nasceu ontem! Ela tem uma história rica que começou há décadas. Vamos explorar como a IA evoluiu ao longo do tempo e quais eventos foram mais importantes.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Complete a linha do tempo (10 minutos)
+   - Pesquise e complete as datas abaixo:
+   - 1950: Alan Turing propôs _______________
+   - 1956: Conferência de _______________
+   - 1997: Deep Blue venceu _______________
+   - 2011: Apple lançou _______________
+   - 2022: OpenAI lançou _______________
+
+Tarefa 2: Escolha um marco e pesquise (10 minutos)
+   - Escolha UMA década da história da IA (50, 60, 70, 80, 90, 2000, 2010, 2020)
+   - Pesquise 2-3 eventos importantes dessa década
+   - Escreva um pequeno resumo (5-10 linhas)
+
+Tarefa 3: Crie sua própria linha do tempo (bonus)
+   - Crie uma linha do tempo visual (papel ou digital)
+   - Inclua os marcos mais importantes
+   - Adicione desenhos ou imagens se quiser!
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a IA demorou tanto para desenvolver desde 1950 até hoje?
+
+2. Você acha que a evolução da IA está acelerando ou desacelerando?
+
+3. Qual marco da história da IA você acha mais importante? Por quê?
+
+4. Como você imagina a linha do tempo da IA nos próximos 10 anos?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Use o Google para pesquisar "história da inteligência artificial linha do tempo"
+
+Dica 2: O Wikipedia tem uma excelente linha do tempo da IA em português
+
+Dica 3: Veja vídeos no YouTube sobre "história da IA em 5 minutos"
+
+Dica 4: Preste atenção nas datas - a IA começou nos anos 50 mas só recentemente se popularizou
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Linha do tempo completa com todas as datas
+□ Pesquisa sobre uma década específica (mínimo 2-3 eventos)
+□ Resumo escrito com 5-10 linhas
+□ Respostas às perguntas de reflexão
+□ (Bonus) Linha do tempo visual criada
+══════════════════════════════════════════════════════════════════

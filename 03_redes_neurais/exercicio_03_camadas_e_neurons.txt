@@ -1,0 +1,74 @@
+EXERCÍCIO 03: CAMADAS E NEURÔNIOS DE UMA REDE NEURAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 03 - Redes Neurais
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como a informação flui através das camadas de uma rede neural.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Uma rede neural é composta por neurônios organizados em camadas. Vamos entender como a informação flui e se transforma através delas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Trace o fluxo da informação (15 minutos)
+   - Considere uma rede que identifica se uma foto mostra um cachorro ou gato
+   - Descreva passo a passo:
+   1. O que entra na camada de entrada (dados)
+   2. O que cada camada oculta detecta
+   3. O que a camada de saída produz
+   - Explique os "pesos" das conexões
+
+Tarefa 2: Desenhe a arquitetura (10 minutos)
+   - Desenhe uma rede neural com:
+     * 3 neurônios de entrada
+     * 2 camadas ocultas de 4 neurônios cada
+     * 2 neurônios de saída
+   - Rotule cada camada
+   - Marque as conexões
+
+Tarefa 3: Variação de profundidade (bonus)
+   - Considere o mesmo problema com 1 camada vs. 10 camadas
+   - Quais as vantagens e desvantagens de cada?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que acontece quando uma camada oculta é muito pequena?
+
+2. E quando é muito grande (muitos neurônios)?
+
+3. Por que a informação precisa passar por várias camadas?
+
+4. Como as camadas ocultas "entendem" a informação de formas diferentes?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Camadas iniciais detectam características simples, camadas avançadas detectam combinações
+
+Dica 2: Pense como um artista que pinta: primeiro o esboço, depois os detalhes
+
+Dica 3: Neurônios com peso alto têm mais influência na decisão
+
+Dica 4: Mais camadas não significa sempre melhor - pode ser "overfitting"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Fluxo de informação descrito passo a passo
+□ Diagrama da arquitetura desenhado
+□ Análise de profundidade (1 vs 10 camadas)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,70 @@
+EXERCÍCIO 01: A IA INVISÍVEL NO COTIDIANO
+
+Dificuldade: ⭐ Fácil
+Módulo: 13 - IA no Cotidiano
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Perceber a presença "invisível" da IA nas atividades do dia a dia.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Quase tudo que você usa tem IA, mas nem sempre percebemos. Vamos "caçar" a IA invisível.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Diário de IA invisível (15 minutos)
+   - Liste 10 atividades do seu dia e identifique a IA envolvida:
+   | Atividade | IA envolvida | Como a IA ajuda |
+   |-----------|--------------|-----------------|
+   | Ex: abrir o WhatsApp | Filtro de spam, sugestões de resposta | segura e antecipa |
+   | | | |
+
+   - Pense em: acordar (alarme), ir à escola (transporte), estudar, jogar, comprar, redes sociais, assistir...
+
+Tarefa 2: Categorize (5 minutos)
+   - Agrupe suas atividades por tipo de IA:
+     * Recomendação
+     * Reconhecimento (imagem/voz)
+     * Previsão
+     * Processamento de linguagem
+   - Escreva quantas de cada você encontrou
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que te surpreendeu em quanta IA você usa por dia?
+
+2. Em qual atividade você percebia a IA antes de hoje?
+
+3. Por que a IA muitas vezes é "invisível"?
+
+4. Que IA você gostaria de ter no seu cotidiano que ainda não existe?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense além dos apps "óbvios" (redes sociais também usam IA)
+
+Dica 2: Até o corretor ortográfico é IA de linguagem
+
+Dica 3: As recomendações do YouTube/Netflix são IA invisível
+
+Dica 4: Um bom diário mostra a onipresença da IA
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 10 atividades com IA identificada
+□ Categorização por tipo de IA
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

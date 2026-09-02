@@ -1,0 +1,69 @@
+EXERCÍCIO 01: CONCEITOS FUNDAMENTAIS DE MACHINE LEARNING
+
+Dificuldade: ⭐ Fácil
+Módulo: 02 - Machine Learning
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender os conceitos básicos de Machine Learning e sua importância.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Machine Learning é uma das áreas mais importantes da IA moderna. Vamos entender o que é e por que é tão revolucionário.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Escreva em 3-4 linhas o que é Machine Learning
+   - Explique como ele se diferencia de programação tradicional
+   - Use uma analogia simples
+
+Tarefa 2: Liste 5 aplicações (10 minutos)
+   - Pense em 5 aplicativos ou serviços que usam ML
+   - Para cada um, explique:
+     * Que tipo de ML usa (supervisionado, não-supervisionado, reforço)
+     * O que o ML aprende a fazer
+
+Tarefa 3: Diagrama simples (bonus)
+   - Crie um diagrama mostrando como o ML funciona
+   - Inclua: dados → treinamento → modelo → previsão
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é importante que computadores aprendam com dados?
+
+2. Você acha que ML pode errar? Por quê?
+
+3. Como o ML difere de um programa tradicional?
+
+4. Qual aplicação do ML você mais usa no dia a dia?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Pense em como o YouTube aprende o que você gosta
+
+Dica 2: O ML precisa de MUITOS dados para funcionar bem
+
+Dica 3: Compare: programação tradicional = regras fixas; ML = regras aprendidas
+
+Dica 4: Use o Google para pesquisar "exemplos de machine learning no cotidiano"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de ML (3-4 linhas)
+□ Lista com 5 aplicações e seus tipos de ML
+□ Diagrama do processo de ML (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

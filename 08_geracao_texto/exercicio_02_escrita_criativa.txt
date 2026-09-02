@@ -1,0 +1,72 @@
+EXERCÍCIO 02: ESCRITA CRIATIVA COM IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 08 - Geração de Texto
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar a IA como ferramenta de escrita criativa e desenvolver seu próprio estilo.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs podem ajudar na escrita criativa, mas o toque humano é essencial. Vamos usar a IA para gerar ideias e refinar textos criativos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Brainstorm de ideias (10 minutos)
+   - Peça à IA: "Me dê 5 ideias de [gênero: conto, poema, história] sobre [tema: por ex. tecnologia, amizade]"
+   - Escolha a ideia que mais te chamou atenção
+   - Explique por que escolheu essa
+
+Tarefa 2: Desenvolva a história com a IA (15 minutos)
+   - Desenvolva sua ideia com um prompt estruturado:
+     * "Você é um coautor de ficção. Vamos criar juntos uma [história/poema] sobre [tema]. Crie: personagens, enredo em 3 atos e um final surpreendente. Depois vamos escrever o texto completo."
+   - Peça para a IA escrever a primeira versão
+   - Depois peça para TU inserires suas próprias ideias
+   - Alterne: você escreve um trecho, a IA continua
+
+Tarefa 3: Adicione seu toque (5 minutos)
+   - Reescreva o texto final com sua voz:
+     * Adicione detalhes da sua experiência
+     * Mude o final para algo que você goste mais
+     * Substitua palavras que você não usaria
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. A história final parece "sua"? Por quê?
+
+2. Onde a IA foi criativa e onde foi genérica?
+
+3. Como você adicionou valor ao texto que a IA não conseguiu?
+
+4. Qual é o papel do humano quando a IA gera texto?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Colabore com a IA, não apenas deixe fazer tudo
+
+Dica 2: Peça para a IA criar enredos com elementos brasileiros para se conectar
+
+Dica 3: Adicione suas experiências - isso a IA não tem
+
+Dica 4: Use a IA para superar o "branco criativo"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 ideias geradas, 1 escolhida com justificativa
+□ História desenvolvida com colaboração (IA + você)
+□ Texto final com toque pessoal adicionado
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

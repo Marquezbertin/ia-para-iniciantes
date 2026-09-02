@@ -1,0 +1,74 @@
+EXERCÍCIO 04: RECONHECIMENTO FACIAL
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 05 - Visão Computacional
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como o reconhecimento facial funciona e pensar criticamente sobre seus usos.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+O reconhecimento facial identifica pessoas pelo rosto. É usado para desbloquear celulares, mas também tem usos controversos. Vamos explorar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Como funciona (15 minutos)
+   - Pesquise e descreva os passos do reconhecimento facial:
+   1. Como o sistema encontra o rosto na imagem
+   2. Como ele mapeia as características únicas
+   3. Como compara com o banco de dados
+   4. Como decide se é a mesma pessoa
+   - Use seus próprios conceitos, não só copie da internet
+
+Tarefa 2: Usos (10 minutos)
+   - Liste 5 usos do reconhecimento facial
+   - Classifique cada um como POSITIVO, NEGATIVO ou MISTO
+   - Justifique a classificação
+   - Exemplo: "Desbloquear celular - Positivo - mais seguro que senha"
+
+Tarefa 3: Debate (bonus)
+   - Pesquise um caso real de uso de reconhecimento facial no Brasil
+   - Escreva sua opinião fundamentada
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O reconhecimento facial é confiável? Em que situações pode errar?
+
+2. Quais grupos de pessoas podem ser mais afetados por erros?
+
+3. Vigilância em massa é aceitável se previne crimes?
+
+4. Onde fica o limite entre segurança e privacidade?
+
+5. Você se sente confortável com empresas também usando seu rosto?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O reconhecimento facial funciona melhor com rostos frontais e nitidez
+
+Dica 2: Erros em sistemas de reconhecimento facial foram documentados (especialmente com etnias não representadas)
+
+Dica 3: Pense em quem autoriza o uso dos dados faciais
+
+Dica 4: A permissão e o consentimento são fundamentais
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Processo de reconhecimento descrito em 4 passos
+□ 5 usos listados e classificados
+□ Caso real pesquisado e opinião escrita (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

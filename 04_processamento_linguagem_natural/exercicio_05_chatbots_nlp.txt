@@ -1,0 +1,76 @@
+EXERCÍCIO 05: CHATBOTS E NLP
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como os chatbots usam NLP e avaliar a qualidade das respostas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Chatbots estão em todo lugar - atendimento, bancos, e-commerces. Vamos entender como eles usam NLP e avaliar suas capacidades.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Teste um chatbot (15 minutos)
+   - Interaja com o ChatGPT (ou outro chatbot gerativo)
+   - Faça estas perguntas e registre as respostas:
+   1. "Qual é a capital do Brasil?"
+   2. "Me conte uma piada sobre programadores"
+   3. "Explique gravidade com analogia de futebol"
+   4. "Qual é o plural de 'ônibus'?"
+   5. "Traduza 'saudade' para o inglês"
+   - Avalie cada resposta (clareza, precisão, utilidade)
+
+Tarefa 2: Teste um chatbot de atendimento (10 minutos)
+   - Interaja com um atendimento automático (banco, loja, SAC)
+   - Observe como ele:
+     * Entende sua intenção
+     * Direciona para a resposta certa
+     * Trata suas dúvidas
+   - Se possível, tente fazer perguntas fora do roteiro
+
+Tarefa 3: Compare (bonus)
+   - Faça a MESMA pergunta em 2 chatbots diferentes (ChatGPT, Claude, Gemini)
+   - Compare as respostas e note as diferenças
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como os chatbots entendem sua INTENÇÃO (o que você quer) vs. apenas palavras?
+
+2. Quando um chatbot se confundiu, o que você acha que aconteceu?
+
+3. Um chatbot pode ter "personalidade"? Como?
+
+4. Você prefere falar com um bot ou com uma pessoa? Em quais situações?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Observe quando o chatbot pergunta algo de volta para esclarecer
+
+Dica 2: Atenção à forma como ele trata erros de digitação
+
+Dica 3: Compare respostas para a MESMA pergunta com redações diferentes
+
+Dica 4: Note como chatbot de banco (regras) difere do ChatGPT (gerativo)
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 perguntas feitas com respostas avaliadas
+□ Interação com chatbot de atendimento documentada
+□ Comparação entre 2 chatbots (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,80 @@
+EXERCÍCIO 02: CARREGANDO E EXPLORANDO OS DADOS
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 15 - Projeto: Análise de Dados
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Carregar os dados escolhidos no Pandas e explorar suas características.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Depois de escolher os dados, é hora de carregá-los e entendê-los com Pandas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Carregue os dados (15 minutos)
+   - No Colab, carregue seus dados. Se for um CSV:
+   ```
+   import pandas as pd
+   df = pd.read_csv("seu_arquivo.csv")
+   ```
+   - Se for dados próprios, crie com DataFrame manual
+   - Rode:
+   ```
+   print(df.head())       # primeiras linhas
+   print(df.info())       # tipos e nulos
+   print(df.describe())   # estatísticas
+   ```
+
+Tarefa 2: Explore (20 minutos)
+   - Responda sobre seus dados:
+   1. Quantas linhas e colunas tem?
+   2. Quais são as colunas (o que cada uma significa)?
+   3. Há valores nulos (faltando)? Quantos?
+   4. Que tipos de dados há (número, texto)?
+   5. Quais as estatísticas básicas (média, min, max)?
+
+Tarefa 3: Limpeza básica (5 minutos)
+   - Se houver valores nulos ou errados, descreva como limparia
+   - Aplique a limpeza se possível (df.dropna(), correções)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que você aprendeu sobre os dados só com head/describe?
+
+2. Que "sujeira" você encontrou nos dados?
+
+3. Por que explorar antes de analisar é importante?
+
+4. Que história esses dados parecem contar?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: head() mostra as primeiras linhas, info() a estrutura
+
+Dica 2: describe() dá estatísticas básicas
+
+Dica 3: Valores nulos (NaN) podem atrapalhar — decida como tratar
+
+Dica 4: Explore "de leve" antes de aprofundar
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Dados carregados e comandos executados
+□ 5 perguntas de exploração respondidas
+□ Limpeza aplicada/descrita
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

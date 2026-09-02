@@ -1,0 +1,72 @@
+EXERCÍCIO 01: POR QUE PYTHON PARA IA?
+
+Dificuldade: ⭐ Fácil
+Módulo: 11 - IA em Python
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender por que Python é a linguagem principal para IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Python domina o mundo da IA. Vamos entender o porquê.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Liste as razões (5 minutos)
+   - Liste 4-5 razões pelas quais Python é usada para IA
+   - Explique cada uma brevemente
+   - Ex: simplicidade, bibliotecas, comunidade
+
+Tarefa 2: Conheça as bibliotecas (5 minutos)
+   - Para cada biblioteca, explique em 1 linha o que faz:
+   1. NumPy
+   2. Pandas
+   3. Matplotlib
+   4. Scikit-learn
+   5. TensorFlow/PyTorch
+
+Tarefa 3: Pesquise (5 minutos)
+   - Pesquise: "o que é interface de linha de comando do Python" ou como o Python se instala
+   - Liste os passos para rodar Python no Google Colab
+   - Explique por que o Colab é útil para IA (sem instalar nada)
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Essas bibliotecas são exclusivas do Python ou há em outras linguagens?
+
+2. "Simplicidade" é mesmo motivo importante? Por quê?
+
+3. Você se interessaria em aprender Python? Por quê?
+
+4. O que é necessário para rodar um script de IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Python é fácil de ler, parecido com pseudo-código
+
+Dica 2: As principais bibliotecas de IA são do ecossistema Python
+
+Dica 3: O Google Colab roda Python no navegador, sem instalar nada
+
+Dica 4: Comunidade enorme = muita ajuda e exemplos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 4-5 razões listadas e explicadas
+□ 5 bibliotecas explicadas
+□ Passos do Colab descritos
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

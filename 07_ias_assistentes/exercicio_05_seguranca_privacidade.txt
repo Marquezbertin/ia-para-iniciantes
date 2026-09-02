@@ -1,0 +1,78 @@
+EXERCÍCIO 05: SEGURANÇA E PRIVACIDADE NO USO DE IAS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender os riscos de segurança e privacidade ao usar IAs assistentes.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs processam o que você digita. É essencial saber o que é seguro compartilhar e o que nunca compartilhar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Liste o que NUNCA compartilhar (10 minutos)
+   - Liste 10 tipos de informação que você NUNCA deveria digitar em uma IA
+   - Para cada, explique o risco
+   - Exemplo: "Senha do banco → risco de fraude"
+
+Tarefa 2: Leia os termos de uso (10 minutos)
+   - Acesse a política de privacidade de uma IA (ChatGPT, Claude ou Gemini)
+   - Encontre e responda:
+     * Quais dados a empresa coleta?
+     * Como os dados são usados?
+     * Seus dados são usados para treinar a IA?
+     * Você pode pedir a exclusão dos dados?
+
+Tarefa 3: Cenários (10 minutos)
+   - Para cada cenário, diga se é seguro ou não usar a IA:
+   1. "Perguntar sobre sintomas de resfriado"
+   2. "Digitar meu CPF para 'testar' se a IA valida"
+   3. "Perguntar uma dúvida de matemática"
+   4. "Descrever uma briga com um amigo para pedir conselho"
+   5. "Pedir ajuda para resolver uma questão da prova"
+   - Justifique cada resposta
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é diferente contar um segredo a uma pessoa vs. a uma IA?
+
+2. As empresas podem usar seus dados de formas que você não quer?
+
+3. O que você faz para proteger sua privacidade ao usar IA?
+
+4. Como as leis (como LGPD no Brasil) protegem seus dados?
+
+5. Você já usou IA com dados sensíveis? Vai mudar de comportamento?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Dados pessoais (CPF, endereço, documentos) nunca devem ir para IA
+
+Dica 2: Leia a política de privacidade mesmo que seja longo
+
+Dica 3: Não compartilhe dados de TERCEIROS (família, amigos) sem permissão
+
+Dica 4: Use a IA com bom senso e cuidado
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Lista de 10 informações a nunca compartilhar com riscos
+□ Leitura e respostas da política de privacidade
+□ 5 cenários classificados e justificados
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,78 @@
+EXERCÍCIO 06: EXPLORANDO O TENSORFLOW PLAYGROUND
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 03 - Redes Neurais
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar uma ferramenta interativa para ver redes neurais funcionando em tempo real.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A melhor forma de entender redes neurais é vê-las funcionando! O TensorFlow Playground é uma ferramenta gratuita que permite treinar redes neurais visualmente sem programar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Acesse e explore (10 minutos)
+   - Acesse: https://playground.tensorflow.org
+   - Explore a interface:
+     * Identifique os neurônios de entrada
+     * Localize as camadas ocultas
+     * Encontre a saída
+     * Veja o botão de treinamento
+
+Tarefa 2: Experimente (20 minutos)
+   - Teste os seguintes cenários e documente:
+   1. Dataset "Espirais" (spiral) com 1 neurônio oculto - o que acontece?
+   2. Dataset "Espirais" com 4 neurônios - melhorou? Por quê?
+   3. Dataset "Dois Anéis" com 2 camadas de 4 neurônios
+   4. O que muda quando aumenta o learning rate (taxa de aprendizado)?
+   5. Compare o visual do "custo" (loss) durante o treinamento
+
+Tarefa 3: Análise final (10 minutos)
+   - Escreva suas observações:
+     * Qual configuração deu o melhor resultado?
+     * Qual foi o pior?
+     * O que você aprendeu sobre o número de neurônios/camadas?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que aconteceu quando você aumentou muito os neurônios?
+
+2. Como o learning rate afetou o aprendizado?
+
+3. Qual dataset foi mais difícil para a rede aprender?
+
+4. Como essa experiência muda sua compreensão de redes neurais?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Comece com o dataset simples e aumente a dificuldade
+
+Dica 2: Preste atenção ao gráfico de "loss" - deve sempre diminuir
+
+Dica 3: Teste 1 neurônio vs. 8 neurônios para ver a diferença
+
+Dica 4: O learning rate muito alto causa instabilidade, muito baixo torna lento
+
+Dica 5: Capture screenshots dos seus testes para registro
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Exploração da interface documentada
+□ 5 experimentos testados e documentados
+□ Análise final com observações (melhor/pior config)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

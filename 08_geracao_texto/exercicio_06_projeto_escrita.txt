@@ -1,0 +1,82 @@
+EXERCÍCIO 06: PROJETO FINAL DE ESCRITA COM IA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 08 - Geração de Texto
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Produzir um texto completo (como um blog post ou redação) com o uso ético e inteligente da IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos usar a IA como assistente de escrita para produzir um texto final completo e de qualidade, mantendo sua autoria e voz.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escolha o tema e público (5 minutos)
+   - Escolha um tema que domine (futebol, música, games, comida, etc.)
+   - Defina o público (amigos da escola, adultos, etc.)
+   - Defina o formato (blog post de 300 palavras, redação escolar, etc.)
+
+Tarefa 2: Planeje com a IA (10 minutos)
+   - Peça à IA: "Você é um revisor de textos. Me ajude a planejar um texto sobre [tema] para [público]. Sugira títulos e a estrutura (introdução, 2-3 parágrafos, conclusão)"
+   - Escolha o melhor título e estrutura
+
+Tarefa 3: Escreva 50% você mesmo (10 minutos)
+   - Escreva pelo menos metade do texto com SUAS próprias palavras
+   - Use sua experiência, opiniões e conhecimento
+
+Tarefa 4: Complete com ajuda da IA (10 minutos)
+   - Peça à IA para continuar/completar a parte que você não escreveu
+   - Forneça seu texto e peça que mantenha o estilo
+   - Revise criticamente o que a IA adicionou
+
+Tarefa 5: Revisão final (10 minutos)
+   - Una tudo em um texto coeso
+   - Verifique: fatos, coesão, sua voz
+   - Ajuste o que a IA escreveu para soar como você
+   - Peça feedback da IA e refine
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Quanto do texto final é seu vs. da IA?
+
+2. Como foi trabalhar assim? Fácil, difícil, estranho?
+
+3. Essa seria uma forma justa de usar IA em trabalhos escolares? (pesquise as regras)
+
+4. O que você aprendeu sobre o processo de escrita usando IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA é um ótimo REVISOR e PLANEJADOR
+
+Dica 2: Escreva a maior parte você mesmo para manter a voz
+
+Dica 3: Peça à IA para revisar e melhorar - não criar do zero
+
+Dica 4: Documente o processo para mostrar sua autoria
+
+Dica 5: Conheça e siga as regras da sua escola sobre uso de IA
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Tema, público e formato definidos
+□ Planejamento e estrutura criados com IA
+□ Pelo menos 50% do texto escrito por você
+□ Parte concluída/refinada com IA
+□ Revisão e coesão final
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

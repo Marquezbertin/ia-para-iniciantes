@@ -1,0 +1,72 @@
+EXERCÍCIO 01: CONCEITOS DE REDES NEURAIS
+
+Dificuldade: ⭐ Fácil
+Módulo: 03 - Redes Neurais
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender os conceitos fundamentais de redes neurais artificiais.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As redes neurais são a base da maioria das IAs modernas. Vamos entender os conceitos básicos.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Em 3-4 linhas, explique o que é uma rede neural
+   - Inclua a comparação com o cérebro humano
+   - Explique por que são chamadas de "redes"
+
+Tarefa 2: Identifique os componentes (10 minutos)
+   - Desenhe ou descreva uma rede neural simples
+   - Identifique:
+     * Neurônios de entrada
+     * Neurônios ocultos
+     * Neurônios de saída
+     * Conexões entre eles
+   - Explique o papel de cada parte
+
+Tarefa 3: Vantagens (bonus)
+   - Liste 3 vantagens das redes neurais sobre programação tradicional
+   - Explique cada vantagem
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que chamamos de "rede" se é um programa de computador?
+
+2. Em que situações uma rede neural é melhor que regras tradicionais?
+
+3. Uma rede neural com muitos neurônios é sempre melhor?
+
+4. Você acha que redes neurais podem "pensar"? Justifique.
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Uma rede neural processa informações em paralelo, como o cérebro
+
+Dica 2: Não precisa saber matemática avançada - só entender o conceito
+
+Dica 3: Pense na rede como uma "linha de montagem" da informação
+
+Dica 4: A profundidade (número de camadas) influencia a capacidade
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara com comparação ao cérebro
+□ Diagrama ou descrição completa da rede
+□ 3 vantagens sobre programação tradicional
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

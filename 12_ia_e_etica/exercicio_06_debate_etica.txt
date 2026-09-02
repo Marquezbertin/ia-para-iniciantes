@@ -1,0 +1,86 @@
+EXERCÍCIO 06: DEBATE — PROJETO ÉTICO DE IA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 12 - IA e Ética
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aplicar os princípios éticos para analisar (e até propor) um projeto de IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos analisar um cenário realista de IA e aplicar todos os princípios éticos para decidir se é aceitável e como melhorar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Escolha um cenário (5 minutos)
+   - Escolha UM cenário para analisar:
+   a) Uma escola quer usar reconhecimento facial para registrar presença
+   b) Uma empresa quer usar IA para avaliar e contratar funcionários
+   c) Um hospital quer usar IA para priorizar atendimento
+   d) Uma cidade quer usar câmeras inteligentes para segurança
+
+Tarefa 2: Análise ética (20 minutos)
+   - Para o cenário escolhido, analise:
+   1. Benefícios: quem e como é ajudado
+   2. Riscos: quem pode ser prejudicado e como
+   3. Viés: que grupos podem ser discriminados
+   4. Privacidade: que dados são coletados
+   5. Consentimento: as pessoas sabem/consentem?
+   6. Transparência: dá para explicar as decisões?
+
+Tarefa 3: Proposta de melhoria (15 minutos)
+   - Com base nos princípios éticos, proponha:
+   1. Como deixar o projeto mais justo
+   2. Que salvaguardas adicionar
+   3. Quem deve auditar/controlar
+   4. Se você, no final, aprova ou não o projeto (e por quê)
+   - Escreva um parecer final (10 linhas)
+
+Tarefa 4: Debater (bonus)
+   - Se possível, debata seu parecer com um colega
+   - Anote um argumento do colega que mudou/fortaleceu sua posição
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Foi difícil decidir se o projeto é ético?
+
+2. Que princípio ético foi mais difícil de garantir?
+
+3. Como você equilibraria benefícios e riscos?
+
+4. Projetos de IA deveriam passar por aprovação ética antes de lançar?
+
+5. Você se tornaria um "defensor da ética em IA"?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Considere TODOS os afetados, não só os clientes
+
+Dica 2: Pense em dados: são sensíveis? consentidos?
+
+Dica 3: Busque mitigar riscos, não só dizer "é bom"
+
+Dica 4: Um bom projeto é transparente e auditável
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Cenário escolhido
+□ Análise em 6 dimensões éticas
+□ Proposta de melhoria com salvaguardas
+□ Parecer final (10 linhas)
+□ Debate com colega (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

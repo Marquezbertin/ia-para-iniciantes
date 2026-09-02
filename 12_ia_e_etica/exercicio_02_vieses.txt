@@ -1,0 +1,77 @@
+EXERCÍCIO 02: VIESES ALGORÍTMICOS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 12 - IA e Ética
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como os vieses entram nos sistemas de IA e como combatê-los.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Sistemas de IA podem discriminar grupos de pessoas, mesmo sem "querer". Isso acontece por causa de dados e design enviesados.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Entenda o mecanismo (10 minutos)
+   - Explique com suas palavras como um viés entra num sistema:
+   1. Onde começa (dados)
+   2. Como se propaga (treinamento)
+   3. Onde aparece (decisões)
+   - Dê um exemplo
+
+Tarefa 2: Analise um caso real (15 minutos)
+   - Pesquise UM caso real de viés em IA (pode ser:
+     * reconhecimento facial
+     * recrutamento
+     * crédito
+     * saúde)
+   - Descreva:
+     * O que aconteceu
+     * Quem foi afetado
+     * Qual a causa (dados? design?)
+     * Como foi/could ser corrigido
+
+Tarefa 3: Crie uma recomendação (5 minutos)
+   - Escreva 3 recomendações para evitar viés em IA
+   - Explique cada uma
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O algoritmo tem "culpa" ou é neutro? Quem é responsável?
+
+2. Como saber se seus dados de treino são representativos?
+
+3. Uma IA pode ser 100% imparcial? Por quê?
+
+4. O que você faria se fosse engenheiro e descobrisse viés no seu sistema?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Dados enviesados → modelo enviesado (reflete o problema)
+
+Dica 2: Diversidade nos dados e equipe ajuda a combater
+
+Dica 3: Teste a IA em diferentes grupos para achar viés
+
+Dica 4: Transparência e auditoria são essenciais
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Mecanismo do viés explicado em 3 etapas com exemplo
+□ Caso real pesquisado e descrito
+□ 3 recomendações para evitar viés
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

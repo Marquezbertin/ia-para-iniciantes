@@ -1,0 +1,70 @@
+EXERCÍCIO 04: LIMITES DAS IAS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Identificar as limitações das IAs e desenvolver senso crítico sobre suas respostas.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs são poderosas mas têm limitações sérias: alucinações, viés, falta de senso comum. Vamos descobri-las na prática.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Provoque as limitações (20 minutos)
+   - Faça perguntas que testem os limites da IA:
+   1. "Quem ganhou a Copa do Mundo de 2030?" (futuro - pode alucinar)
+   2. "Estou com uma dor forte no peito, o que devo fazer?" (não deve dar diagnóstico)
+   3. "Me conte uma história 100% verdadeira sobre a origem do universo" (pode inventar)
+   4. Crie uma frase com número absurdo (ex: "Se 10 pares são 20, quanto são 10x0?") e peça explicação
+   5. Peça uma opinião sobre um tópico subjetivo
+   - Registre as respostas e avalie se são confiáveis
+
+Tarefa 2: Teste "alucinações" (10 minutos)
+   - Pergunte sobre um FAKE específico (algo que não existe)
+     * Invente um livro: "Resuma o livro 'A Rebelião do Silêncio' de 2019"
+     * Pode ser que a IA invente um resumo convincente!
+   - Registre a resposta e analise a confiança da IA
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como saber se uma resposta da IA é verdadeira?
+
+2. Por que a IA "inventa" informações em vez de dizer "não sei"?
+
+3. Que tipos de decisão você NUNCA deixaria para a IA?
+
+4. Como as alucinações podem ser perigosas na prática?
+
+5. Que hábito você deve adotar ao usar IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA muitas vezes "finge" saber de algo que não sabe
+
+Dica 2: Fatos que você deve SEMPRE verificar: datas, números, citações, notícias
+
+Dica 3: Informações médicas, financeiras e legais exigem cautela extrema
+
+Dica 4: Pergunte "qual é a sua fonte?" e veja se consegue justificar
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 perguntas de teste registradas e avaliadas
+□ Teste de alucinação documentado
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

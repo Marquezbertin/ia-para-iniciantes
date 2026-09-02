@@ -1,0 +1,71 @@
+EXERCÍCIO 01: O QUE É PROMPT ENGINEERING?
+
+Dificuldade: ⭐ Fácil
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o conceito de prompt engineering e por que é importante.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs generativas só respondem bem se receberem boas instruções. Prompt engineering é a habilidade de "dirigir" a IA.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é prompt engineering
+   - Mencione por que é chamado de "engenharia"
+   - Dê um exemplo de prompt simples
+
+Tarefa 2: Analise a analogia (5 minutos)
+   - O módulo usou a analogia de "pedir ajuda a um colega"
+   - Crie sua própria analogia e explique
+   - Ex: promp engineering é como... []
+
+Tarefa 3: Teste a diferença (5 minutos)
+   - Use o ChatGPT com:
+     * Prompt 1: "Fale sobre esportes"
+     * Prompt 2: "Você é um comentarista esportivo. Explique em 2 parágrafos a importância do futebol no Brasil, usando termos que um adolescente entenda."
+   - Compare as duas respostas
+   - Documente qual foi melhor e por quê
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a qualidade do prompt afeta tanto a resposta?
+
+2. A IA "culpa" o usuário quando responde mal? Deveria culpar?
+
+3. Prompt engineering é uma habilidade valorizada no mercado? Por quê?
+
+4. Como você usaria prompt engineering na escola (trabalhos, pesquisa, provas)?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: "Prompt" é a instrução/dúvida que você dá à IA
+
+Dica 2: É chamado de engenharia porque exige pensar e planejar
+
+Dica 3: Teste sempre: prompt vago vs. prompt detalhado
+
+Dica 4: O objetivo é obter resposta útil, não impressionar com técnica
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de prompt engineering com exemplo
+□ Analogia criada e explicada
+□ Comparação entre prompt vago e detalhado documentada
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

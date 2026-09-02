@@ -1,0 +1,71 @@
+EXERCÍCIO 01: CONHECENDO AS IAs ASSISTENTES
+
+Dificuldade: ⭐ Fácil
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Conhecer as principais IAs assistentes e seus criadores.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+ChatGPT, Claude e Gemini são as principais IAs assistentes. Vamos conhecê-las e entender de onde vêm.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise (10 minutos)
+   - Para cada IA, registre:
+   1. Quem criou
+   2. Quando foi lançada
+   3. Principais recursos
+   4. O que há de único
+   - Faça isso para: ChatGPT, Claude, Gemini
+
+Tarefa 2: Acesse pelo menos 1 (10 minutos)
+   - Se possível, acesse ao menos uma das IAs
+   - Faça 2 perguntas simples
+   - Registre suas impressões sobre a experiência
+
+Tarefa 3: Tabela comparativa (bonus)
+   - Crie uma tabela comparando as 3 IAs
+   - Critérios: criador, data, recursos, interface, preço
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Qual dessas IAs você mais ouviu falar? Por quê?
+
+2. Por que existem diferentes IAs concorrentes?
+
+3. Qual parece mais interessante para o seu uso?
+
+4. Como a concorrência entre IAs beneficia os usuários?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: ChatGPT é da OpenAI, Claude da Anthropic, Gemini do Google
+
+Dica 2: A versão gratuita é suficiente para praticar
+
+Dica 3: Todas têm site oficial e são acessíveis pelo navegador
+
+Dica 4: Compare os "termos de uso" e políticas de privacidade
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Pesquisa sobre 3 IAs (criador, data, recursos, único)
+□ Teste de pelo menos 1 IA com 2 perguntas
+□ Tabela comparativa criada (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

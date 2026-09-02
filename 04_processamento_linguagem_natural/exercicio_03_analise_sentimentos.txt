@@ -1,0 +1,76 @@
+EXERCÍCIO 03: ANÁLISE DE SENTIMENTOS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 04 - Processamento de Linguagem Natural
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender como a IA analisa sentimentos em textos e praticar com exemplos reais.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Empresas analisam milhões de avaliações e comentários para saber se os clientes estão satisfeitos. A IA classifica textos como positivos, negativos ou neutros - e às vezes identifica emoções específicas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Classifique você mesmo (10 minutos)
+   - Classifique estas avaliações como Positiva, Negativa ou Neutra:
+   1. "O produto veio rápido mas a qualidade é péssima"
+   2. "Entrega demorou 5 dias, nada demais"
+   3. "AMEI! Super recomendo para todos!"
+   4. "Funciona, mas esperava melhor pelo preço"
+   5. "Não compraria de novo, péssimo atendimento"
+   - Justifique cada classificação
+
+Tarefa 2: Teste com a IA (15 minutos)
+   - Use o ChatGPT ou Claude para analisar as mesmas 5 avaliações
+   - Pergunte: "Classifique o sentimento dessa avaliação: [texto]"
+   - Compare as respostas da IA com as suas
+   - Observe:
+     * A IA concordou?
+     * Ela identificou emoções específicas (raiva, decepção, entusiasmo)?
+     * Funcionou bem com sarcasmo ou ambiguidades?
+
+Tarefa 3: Crie suas avaliações (5 minutos)
+   - Escreva 3 avaliações (uma positiva, uma negativa, uma misturada)
+   - Peça para a IA analisar cada uma
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é difícil para a IA detectar sarcasmo?
+
+2. O que uma avaliação "mista" (positiva e negativa) revela sobre desafios do NLP?
+
+3. As empresas podem usar análise de sentimentos de forma antiética?
+
+4. Você confia na capacidade de uma IA de "entender" como você se sente?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Sarcasmo e gírias confundem a IA
+
+Dica 2: Tonalidade importa - "rápido" pode ser positivo ou negativo dependendo do contexto
+
+Dica 3: Peça à IA que explique POR QUE classificou de determinada forma
+
+Dica 4: As empresas usam isso para melhorar atendimento e produtos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 5 avaliações classificadas com justificativa
+□ Comparação entre sua análise e a da IA
+□ 3 avaliações criadas e analisadas pela IA
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

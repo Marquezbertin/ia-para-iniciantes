@@ -1,0 +1,89 @@
+EXERCÍCIO 06: FAZENDO UMA CHAMADA REAL A UMA API DE IA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 10 - API de IA
+Tempo estimado: 45 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Fazer uma chamada real a uma API de IA e extrair a resposta, aplicando tudo que aprendeu.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+A melhor forma de entender APIs é usar uma de verdade. Vamos fazer uma chamada real a uma API de IA.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Obtenha acesso (10 minutos)
+   - Crie uma conta gratuita em uma API de IA. Opções:
+     * Google AI Studio (tem free tier) - https://aistudio.google.com
+     * OpenAI Platform (tem trial)
+   - Obtenha sua API key (guarde com segurança!)
+   - **NUNCA** compartilhe a key
+
+Tarefa 2: Explore a documentação (10 minutos)
+   - Acesse a documentação da API escolhida
+   - Encontre:
+     * O endpoint (URL) para chat/completions
+     * O formato de autenticação
+     * Um exemplo de requisição
+     * O tamanho máximo de tokens
+
+Tarefa 3: Tente uma chamada (15 minutos)
+   - Use o "Playground" da plataforma OU o curl no terminal
+   - Faça uma chamada simples: "Diga 'Olá, mundo' em 3 idiomas"
+   - Exemplo de curl (adaptando a URL e a key):
+   
+   ```
+   curl https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=SUA_KEY -H 'Content-Type: application/json' -d '{"contents":[{"parts":[{"text":"OLá mundo em 3 idiomas"}]}]}'
+   ```
+   
+   - Registre a resposta completa
+
+Tarefa 4: Extraia a resposta (10 minutos)
+   - Localize no JSON retornado:
+     * O texto gerado
+     * Os tokens usados (se houver)
+     * O modelo
+   - Escreva o caminho para chegar ao texto da resposta
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Como foi fazer a chamada real? Fácil ou difícil?
+
+2. O que você aprendeu sobre autenticação na prática?
+
+3. Por que a documentação é importante?
+
+4. O que você construiria usando essa API?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: O Google AI Studio tem free tier e é fácil de começar
+
+Dica 2: O "Playground" das plataformas permite testar sem escrever muito código
+
+Dica 3: Sempre olhe a documentação para o formato exato da requisição
+
+Dica 4: Use variáveis de ambiente para guardar a key (não no código final)
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Conta criada e API key obtida com segurança
+□ Documentação explorada (endpoint, autenticação, exemplo)
+□ Chamada real feita (curl ou playground)
+□ Resposta completa registrada
+□ Caminho de extração escrito
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

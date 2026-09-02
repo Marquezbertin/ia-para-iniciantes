@@ -1,0 +1,73 @@
+EXERCÍCIO 03: GERAÇÃO DE CÓDIGO COM IA
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 08 - Geração de Texto
+Tempo estimado: 40 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Usar IA para gerar e entender código, verificando sempre a qualidade.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs são excelentes para gerar código, mas é essencial saber verificar se o código funciona. Vamos praticar.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Gere código (10 minutos)
+   - Peça ao ChatGPT: "Escreva um código Python que imprima a tabuada do 7"
+   - Registre o código gerado
+   - Peça ao ChatGPT para explicar o que cada linha faz
+
+Tarefa 2: Analise o código (15 minutos)
+   - Leia o código gerado com atenção
+   - Verifique se ele faz o que foi pedido
+   - Se possível, rode o código no Google Colab (colab.research.google.com)
+   - Registre: funcionou? Teve erro? A IA escreveu corretamente?
+
+Tarefa 3: Refine com a IA (15 minutos)
+   - Peça melhorias:
+     * "Agora faça o usuário digitar qual tabuada quer ver"
+     * "Adicione um loop para mostrar até o número 10"
+   - Teste as modificações
+   - Verifique se o código final está correto
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O código gerado pela IA estava correto logo de primeira?
+
+2. Como você verificou se estava certo?
+
+3. Por que é importante testar o código e não confiar só na IA?
+
+4. Em que situações a IA ajudaria você a aprender programação?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA pode gerar código com erros - SEMPRE teste
+
+Dica 2: O Google Colab é gratuito e roda Python no navegador
+
+Dica 3: Peça à IA para "explicar" o código - ótimo para aprender
+
+Dica 4: Todos podem programar hoje - a IA reduz a barreira de entrada
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Código gerado e registrado
+□ Explicação linha a linha obtida
+□ Teste do código (real) documentado
+□ Refinamento e modificações testadas
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

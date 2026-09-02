@@ -1,0 +1,71 @@
+EXERCÍCIO 03: AUTENTICAÇÃO DE APIs
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 10 - API de IA
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Entender os mecanismos de autenticação (API key, token) e a segurança envolvida.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Para usar APIs de IA, você precisa se autenticar. Vamos entender como isso funciona e como manter a segurança.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Entenda a autenticação (10 minutos)
+   - Explique com suas palavras:
+   1. O que é uma API key (chave de API)?
+   2. Como ela é enviada em uma requisição?
+   3. Por que a autenticação é necessária?
+
+Tarefa 2: Pesquise (10 minutos)
+   - Pesquise como obter uma API key em:
+   1. OpenAI Platform (platform.openai.com)
+   2. Google AI Studio
+   - Escreva os passos (sem gerar a chave!)
+
+Tarefa 3: Segurança (5 minutos)
+   - Liste 5 boas práticas de segurança com API keys
+   - Explique cada uma
+   - Ex: "não colocar a key no código do GitHub"
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que você nunca deve compartilhar sua API key?
+
+2. O que alguém poderia fazer com sua key roubada?
+
+3. Como as empresas protegem as keys dos seus sistemas?
+
+4. Diferencie API key de senha normal. São iguais?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: API key vai no header "Authorization"
+
+Dica 2: Keys geralmente têm formato como "sk-xxxxx"
+
+Dica 3: A key é a sua identidade para cobrança e permissões
+
+Dica 4: As plataformas permitem criar/revogar keys
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Explicação de API key, envio e autenticação
+□ Passos para obter key em 2 plataformas
+□ 5 boas práticas de segurança
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

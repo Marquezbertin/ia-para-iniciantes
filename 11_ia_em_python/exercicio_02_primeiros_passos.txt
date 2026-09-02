@@ -1,0 +1,96 @@
+EXERCÍCIO 02: PRIMEIROS PASSOS NO PYTHON PARA IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 11 - IA em Python
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Executar código Python básico no Google Colab, preparando a base para IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos rodar código Python de verdade na nuvem (Google Colab) e experimentar operações básicas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Acesse o Colab (5 minutos)
+   - Acesse https://colab.research.google.com
+   - Crie um novo notebook (Novo notebook)
+
+Tarefa 2: Rode os códigos (20 minutos)
+   - Execute cada célula e registre o resultado:
+
+   Célula 1 (soma):
+   ```
+   print(2 + 3)
+   ```
+
+   Célula 2 (variáveis):
+   ```
+   nome = "Maria"
+   idade = 14
+   print(f"Oi {nome}, você tem {idade} anos")
+   ```
+
+   Célula 3 (lista e loop):
+   ```
+   notas = [8, 7, 9, 6]
+   soma = 0
+   for n in notas:
+       soma += n
+   print("Média:", soma / len(notas))
+   ```
+
+   Célula 4 (importar NumPy):
+   ```
+   import numpy as np
+   arr = np.array([1, 2, 3, 4, 5])
+   print("Média:", arr.mean())
+   print("Soma:", arr.sum())
+   ```
+
+Tarefa 3: Modifique (5 minutos)
+   - Modifique uma das células:
+     * Mude as notas e refaça a média
+     * Mude o código para também calcular o maior número
+   - Registre o que mudou
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. O que o NumPy facilitou em relação ao código manual?
+
+2. Como foi rodar Python no navegador sem instalar?
+
+3. O que mais você gostaria de experimentar?
+
+4. Por que "arrays" são úteis para IA (dados em volume)?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Para rodar uma célula: clique no botão de play ou Ctrl+Enter
+
+Dica 2: O Colab "roda" automaticamente o código no servidor
+
+Dica 3: NumPy facilita operações em grandes conjuntos de números
+
+Dica 4: Salve seu notebook para não perder o trabalho
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Notebook do Colab criado
+□ 4 células executadas com resultados registrados
+□ Modificação feita e documentada
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

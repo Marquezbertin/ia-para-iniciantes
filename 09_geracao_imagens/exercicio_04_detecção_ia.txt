@@ -1,0 +1,74 @@
+EXERCÍCIO 04: DETECTANDO IMAGENS GERADAS POR IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Desenvolver a habilidade de identificar imagens geradas por IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Imagens geradas por IA estão cada vez mais realistas. É importante saber identificar sinais de que uma imagem é fake.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Pesquise exemplos (15 minutos)
+   - Pesquise "exemplos de imagens geradas por IA" na internet
+   - Encontre exemplos reais (rostos, fotos, cenas)
+   - Analise-os procurando sinais de IA
+
+Tarefa 2: Identifique os sinais (10 minutos)
+   - Liste os principais sinais de que uma imagem é gerada por IA:
+   1. Problemas com mãos/dedos
+   2. Textos errados/estranhos
+   3. Texturas repetidas
+   4. Detalhes assimétricos
+   5. Iluminação irreal
+   6. Outros que você notou
+   - Para cada sinal, explique o que procurar
+
+Tarefa 3: Analise criticamente (5 minutos)
+   - Encontre 2 imagens na internet (uma pode ser IA, outra não)
+   - Analise cada uma e justifique se é ou não gerada por IA
+   - Se não tiver certeza, explique por quê
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que é importante saber identificar imagens de IA?
+
+2. As imagens de IA estão "melhorando" de detectar? Como isso impacta você?
+
+3. Como as fake news usam imagens geradas por IA?
+
+4. Há como ter 100% de certeza? O que você pode fazer?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Olhe MUITO perto das mãos e dedos - costumam ter erros
+
+Dica 2: Textos dentro da imagem (placas, camisas) costumam ter erros
+
+Dica 3: Verifique iluminação e reflexos (sombras podem ser inconsistentes)
+
+Dica 4: Pesquise ferramentas de detecção (Hive, Deepware) se quiser
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Exemplos pesquisados e analisados
+□ Lista de sinais de IA (com explicação)
+□ Análise crítica de 2 imagens
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

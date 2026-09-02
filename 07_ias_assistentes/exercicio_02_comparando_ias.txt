@@ -1,0 +1,70 @@
+EXERCÍCIO 02: COMPARANDO IAS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 07 - IAs Assistentes
+Tempo estimado: 30 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Comparar as respostas de diferentes IAs para a mesma pergunta.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Diferentes IAs podem responder a mesma pergunta de formas bem diferentes. Vamos descobrir isso na prática.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Faça a mesma pergunta em 2+ IAs (20 minutos)
+   - Use 2 (ou 3) IAs diferentes para responder a MESMA pergunta:
+   
+   Pergunta 1: "Explique o que é gravidade para uma criança de 10 anos"
+   Pergunta 2: "Dê 3 ideias de presentes para um amigo que gosta de jogos"
+   Pergunta 3: "Resuma a história do Brasil em 3 parágrafos"
+   
+   - Registre a resposta de CADA IA para CADA pergunta
+
+Tarefa 2: Compare (10 minutos)
+   - Para cada pergunta, compare:
+     * Quem respondeu melhor?
+     * Quem foi mais claro?
+     * Quem foi mais detalhado?
+     * Quem foi mais criativo?
+     * Quem foi mais formal?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. As respostas foram muito diferentes? Em quê?
+
+2. Há UMA IA claramente melhor em tudo?
+
+3. O que muda entre as "personalidades" das IAs?
+
+4. Quando vale a pena usar mais de uma IA?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Use o mesmo prompt EXATO nas diferentes IAs
+
+Dica 2: Compare também o TOM e a FORMA, não só o conteúdo
+
+Dica 3: Varie os tipos de pergunta para ver diferentes forças
+
+Dica 4: Registre tudo para ter material de comparação
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Respostas de 2+ IAs para 3 perguntas registradas
+□ Comparação detalhada por pergunta (clareza, detalhe, criatividade)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

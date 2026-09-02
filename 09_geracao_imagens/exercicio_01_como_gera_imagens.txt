@@ -1,0 +1,72 @@
+EXERCÍCIO 01: COMO AS IAS GERAM IMAGENS?
+
+Dificuldade: ⭐ Fácil
+Módulo: 09 - Geração de Imagens
+Tempo estimado: 15 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o conceito de geração de imagens por IA.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As IAs geram imagens a partir de texto. Vamos entender o princípio básico por trás disso.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina com suas palavras (5 minutos)
+   - Explique em 3-4 linhas o que é geração de imagens por IA
+   - Use a analogia do pintor que estudou milhões de quadros
+   - Mencione que a IA combina conceitos aprendidos
+
+Tarefa 2: Descreva mentalmente (10 minutos)
+   - Pense na imagem "um pinguim jogando futebol em uma praia do Rio"
+   - Liste os elementos que você IMAGINA que a IA precisaria juntar:
+     * O que sabe sobre pinguins
+     * O que sabe sobre futebol
+     * O que sabe sobre praias cariocas
+     * O estilo visual
+   - Escreva como esses elementos se combinariam
+
+Tarefa 3: Experimento (bonus)
+   - Se tiver uma IA de imagem (DALL-E, etc.), gere uma imagem simples
+   - Veja o resultado e compare com o que você imaginou
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. A IA "imagina" de verdade ou só combina padrões?
+
+2. De onde vêm os conhecimentos da IA sobre "pinguins" e "praias"?
+
+3. Por que às vezes saem imagens estranhas (mãos com 6 dedos)?
+
+4. Uma IA pode criar uma imagem 100% nova ou só combina o que viu?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: A IA foi treinada com milhões de imagens + descrições
+
+Dica 2: Ela combina conceitos que "aprendeu" a associar
+
+Dica 3: Erros acontecem porque ela não "entende" fisicamente as coisas
+
+Dica 4: Detalhes como mãos são difíceis porque são complexos
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Definição clara de geração de imagens
+□ Descrição dos elementos que a IA juntaria
+□ Experimento registrado (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

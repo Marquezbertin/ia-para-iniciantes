@@ -1,0 +1,102 @@
+EXERCÍCIO 06: PROJETO FINAL EM PYTHON
+
+Dificuldade: ⭐⭐⭐ Difícil
+Módulo: 11 - IA em Python
+Tempo estimado: 50 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Criar um pequeno projeto de ML completo em Python, juntando os conceitos.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Vamos criar um projeto completo: um classificador de frutas usando características medíveis, com análise de dados e treinamento de modelo.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Crie os dados (10 minutos)
+   - No Colab, crie um DataFrame com características de frutas:
+   (peso, cor_vermelha, cor_amarela, eh_fruta) — invente valores
+
+   ```
+   import pandas as pd
+   from sklearn.tree import DecisionTreeClassifier
+   from sklearn.model_selection import train_test_split
+   from sklearn.metrics import accuracy_score
+
+   dados = pd.DataFrame({
+       'peso_g':   [150, 120, 180, 140, 130, 90, 80, 300, 250],
+       'vermelha': [1, 1, 0, 0, 1, 0, 0, 0, 0],
+       'amarela':  [0, 0, 1, 1, 0, 1, 1, 0, 0],
+       'fruta':    [1, 1, 1, 1, 1, 1, 1, 0, 0]
+   })
+   print(dados.head())
+   ```
+
+Tarefa 2: Treine e avalie (15 minutos)
+   - Complete o código:
+   ```
+   X = dados[['peso_g', 'vermelha', 'amarela']]
+   y = dados['fruta']
+   X_treino, X_teste, y_treino, y_teste = train_test_split(X, y, test_size=0.3, random_state=42)
+   modelo = DecisionTreeClassifier()
+   modelo.fit(X_treino, y_treino)
+   pred = modelo.predict(X_teste)
+   print("Acurácia:", accuracy_score(y_teste, pred))
+   ```
+   - Registre a acurácia (pode ser 100% com dados simples!)
+
+Tarefa 3: Faça uma previsão real (15 minutos)
+   - Use o modelo para prever uma fruta nova:
+   ```
+   nova = [[130, 0, 1]]   # peso 130, amarela, não vermelha (um limão!)
+   print(modelo.predict(nova))
+   ```
+   - Teste novas combinações e veja o que o modelo prevê
+   - Peça à IA (ChatGPT) para explicar por que o modelo acertou/errou
+
+Tarefa 4: Documente (10 minutos)
+   - Escreva um resumo do projeto:
+     * Que dados você criou
+     * Como o modelo aprendeu
+     * O que descobriu sobre o processo
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que esse dataset era "fácil" para o modelo aprender?
+
+2. O que aconteceria se os dados fossem mais confusos?
+
+3. Como você faria um projeto para dados reais (notas, clima, esportes)?
+
+4. O que você mudaria para deixar o projeto maior/melhor?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Dados com características claras = modelo acerta fácil
+
+Dica 2: Inclua uma coluna "fruta" (1=fruta, 0=não fruta) como o rótulo
+
+Dica 3: Teste novas combinações para ver como o modelo classifica
+
+Dica 4: Trate este projeto como "aprendizado de ML passo a passo"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ DataFrame de frutas criado
+□ Modelo treinado com acurácia registrada
+□ Previsões reais realizadas e interpretadas
+□ Resumo documentado
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

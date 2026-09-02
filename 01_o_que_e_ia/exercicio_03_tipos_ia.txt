@@ -1,0 +1,77 @@
+EXERCÍCIO 03: CLASSIFICANDO TIPOS DE IA
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 01 - O que é Inteligência Artificial?
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Aprender a classificar diferentes tipos de IA e entender suas características.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Nem toda IA é igual! Existem diferentes tipos de IA, cada uma com capacidades e limitações específicas. Vamos aprender a classificá-las e identificar exemplos reais de cada tipo.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Classifique os exemplos (15 minutos)
+   - Para cada exemplo abaixo, identifique se é IA Estreita, Geral ou Super:
+   
+   1. Reconhecimento facial do iPhone → _______________
+   2. ChatGPT conversando sobre qualquer assunto → _______________
+   3. Alexa tocando música quando você pede → _______________
+   4. Google Translate traduzindo textos → _______________
+   5. Siri definindo alarmes → _______________
+   6. Um robô que aprende a andar em qualquer terreno → _______________
+   7. Netflix recomendando séries → _______________
+   8. Carro autônomo dirigindo em qualquer cidade → _______________
+
+Tarefa 2: Pesquise e classifique (10 minutos)
+   - Pesquise 3 novas tecnologias de IA lançadas em 2024-2026
+   - Classifique cada uma dos tipos de IA
+   - Explique por que escolheu essa classificação
+
+Tarefa 3: Crie um infográfico (bonus)
+   - Crie um infográfico mostrando os 3 tipos de IA
+   - Inclua exemplos reais para cada tipo
+   - Use cores diferentes para cada categoria
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que a maioria das IAs que usamos são IA Estreita?
+
+2. Você acha que teremos uma IA Geral algum dia? Quando?
+
+3. Os limites entre IA Estreita e IA Geral estão ficando mais difusos?
+
+4. Como você classificaria o ChatGPT? É IA Estreita ou Geral? Por quê?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: IA Estreita = faz UMA tarefa muito bem. IA Geral = faz QUALQUER tarefa.
+
+Dica 2: Pense assim: Se a IA só funciona em um contexto específico, é Estreita.
+
+Dica 3: O ChatGPT parece ser IA Geral, mas tecnicamente ainda é Estreita - ele só processa texto.
+
+Dica 4: Use o Google para pesquisar "diferença entre IA estreita geral e super"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Todos os 8 exemplos classificados corretamente
+□ 3 novas tecnologias pesquisadas e classificadas
+□ Explicações claras para cada classificação
+□ Respostas às perguntas de reflexão
+□ (Bonus) Infográfico criado
+══════════════════════════════════════════════════════════════════

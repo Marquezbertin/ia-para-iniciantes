@@ -1,0 +1,74 @@
+EXERCÍCIO 02: COMO A MÁQUINA "VÊ"?
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 05 - Visão Computacional
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender o fluxo de como uma imagem é processada por uma rede neural.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Quando uma máquina "vê" uma imagem, ela não entende como nós. Vamos esmiuçar o processo de como a imagem se torna dados e como a rede a interpreta.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: De imagem a números (15 minutos)
+   - Escolha uma imagem simples (um quadrado vermelho em fundo branco)
+   - Descreva o processo de conversão:
+   1. Como a imagem é dividida (pixels)
+   2. Como as cores são representadas (RGB)
+   3. Como a matriz de números fica
+   - Faça isso com uma grade 5x5 (simplificada): use "V" para vermelho, "B" para branco
+
+Tarefa 2: Rastreie o processamento (10 minutos)
+   - Para uma foto de um gato, descreva:
+   1. O que a camada 1 provavelmente detecta (bordas)
+   2. O que a camada 2 provavelmente detecta (formas)
+   3. O que a camada 3 provavelmente detecta (gato completo)
+   4. O que a camada de saída produz
+
+Tarefa 3: Teste prático (bonus)
+   - Use o Quick, Draw! (Google) e experimente desenhar um gato
+   - Observe como o sistema tenta adivinhar enquanto você desenha
+   - Documente o que a IA "pensa" que você está desenhando
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que uma imagem borrada é difícil para a IA?
+
+2. Como a IA distingue objetos semelhantes (gato vs cachorro por ex.)?
+
+3. O que acontece se a máquina vê um objeto de um ângulo estranho?
+
+4. A IA reconhece o OBJETO ou só padrões visuais?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Cada pixel tem valores de cor; a rede analisa a matriz
+
+Dica 2: O contexto ajuda - a IA nota a relação entre as partes
+
+Dica 3: Camadas iniciais = detalhes, camadas finais = conjunto
+
+Dica 4: Teste o Quick, Draw! e veja a "visão" em ação
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Processo de pixels->números descrito (grade 5x5)
+□ Rastreio das camadas para a foto do gato
+□ Teste do Quick Draw documentado (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

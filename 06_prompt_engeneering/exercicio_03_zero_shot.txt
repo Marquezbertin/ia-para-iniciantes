@@ -1,0 +1,76 @@
+EXERCÍCIO 03: ZERO-SHOT E FEW-SHOT
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 06 - Prompt Engineering
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Compreender e aplicar as técnicas de zero-shot e few-shot.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+As técnicas zero-shot e few-shot são fundamentais para melhorar a qualidade das respostas. Vamos praticar ambas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Defina os conceitos (5 minutos)
+   - Diferença entre zero-shot e few-shot
+   - Em que situação cada um é melhor
+
+Tarefa 2: Teste zero-shot (10 minutos)
+   - Use o ChatGPT com este prompt zero-shot:
+   "Classifique a emoção desta frase: 'Vou ter que devolver isso, mas a loja foi educada'"
+   - Registre a resposta
+
+   - Agora use com textos mais ambíguos:
+   "Classifique: 'Não vejo a hora de acabar isso...'"
+   - Registre
+
+Tarefa 3: Teste few-shot (10 minutos)
+   - Use o mesmo prompt adicionando exemplos:
+   "Classifique emoções. Exemplos:
+   'Estou ansioso para a festa!' → Feliz
+   'Que dia terrível' → Triste
+   'Isso está me deixando louco' → Irritado
+   Agora: 'Vou ter que devolver isso, mas a loja foi educada' →"
+   - Registre a resposta e compare com o zero-shot
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Quando o few-shot é claramente melhor que o zero-shot?
+
+2. Que problema o few-shot resolve (em relação ao zero-shot)?
+
+3. Você consegue pensar em tarefas em que zero-shot é suficiente?
+
+4. Como escolher bons exemplos para few-shot?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Zero-shot = sem exemplos; Few-shot = com poucos exemplos
+
+Dica 2: Os exemplos few-shot "ensinam" o formato e o padrão
+
+Dica 3: Use 2-3 exemplos variados e representativos
+
+Dica 4: Compare as respostas para ver a diferença na prática
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ Diferença entre zero-shot e few-shot explicada
+□ Testes zero-shot com 2 frases registrados
+□ Teste few-shot comparado com o zero-shot
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

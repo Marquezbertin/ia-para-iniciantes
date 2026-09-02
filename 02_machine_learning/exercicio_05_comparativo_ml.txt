@@ -1,0 +1,69 @@
+EXERCÍCIO 05: COMPARATIVO DOS TIPOS DE MACHINE LEARNING
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 02 - Machine Learning
+Tempo estimado: 25 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Comparar os 3 tipos de machine learning e escolher o mais adequado para cada problema.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Diferentes problemas exigem diferentes tipos de ML. Vamos desenvolver a habilidade de escolher o tipo correto de ML para cada situação.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Classifique as situações (20 minutos)
+   - Para cada situação abaixo, decida o tipo de ML mais adequado (Supervisionado, Não-Supervisionado ou Reforço) e justifique:
+
+   1. Classificar e-mails da escola (importante/não importante)
+   2. Descobrir grupos naturais de estilos musicais
+   3. Ensinar um robô a fazer um passe de futebol
+   4. Prever quanto custa um smartphone usado
+   5. Agrupar clientes de uma loja por comportamento
+   6. Treinar um drone para evitar obstáculos voando
+   7. Detectar rostos em fotos
+   8. Descobrir temas comuns em notícias
+
+Tarefa 2: Crie um problema para cada tipo (bonus)
+   - Invente UM problema para cada tipo de ML
+   - Descreva:
+     * O problema
+     * Que tipo de dados seria necessário
+     * Qual tipo de ML seria melhor
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Um mesmo problema pode usar mais de um tipo de ML? Dê exemplo.
+
+2. Como você decide entre supervisionado e não-supervisionado?
+
+3. Por que o reforço exige mais recursos computacionais?
+
+4. Existe algum problema que NENHUM tipo de ML resolve atualmente?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Supervisionado = tem resposta conhecida (rótulos)
+Dica 2: Não-supervisionado = procura padrões sem respostas
+Dica 3: Reforço = aprende por tentativa e erro com recompensas
+Dica 4: Pergunte: "Eu sei a resposta certa (rótulo) ou não?"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 8 situações classificadas corretamente com justificativas
+□ 3 problemas criados (um para cada tipo) com detalhes
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,73 @@
+EXERCÍCIO 02: ANALOGIAS DE REDES NEURAIS
+
+Dificuldade: ⭐⭐ Médio
+Módulo: 03 - Redes Neurais
+Tempo estimado: 20 minutos
+
+══════════════════════════════════════════════════════════════════
+
+🎯 OBJETIVO
+Criar e avaliar analogias para entender redes neurais de forma mais intuitiva.
+
+══════════════════════════════════════════════════════════════════
+
+📖 PROBLEMA
+
+Conceitos complexos como redes neurais são mais fáceis de entender com analogias. Vamos criar nossas próprias analogias e avaliar as propostas.
+
+══════════════════════════════════════════════════════════════════
+
+📝 TAREFAS PRÁTICAS
+
+Tarefa 1: Crie 3 analogias (15 minutos)
+   - Crie analogias para explicar:
+   1. Um neurônio artificial (ex: semáforo, chave, filtro)
+   2. As camadas de uma rede (ex: linha de montagem, escada)
+   3. O processo de aprendizado (ex: arqueiro, cozinheiro)
+   
+   Para cada analogia, explique:
+   * Como a analogia se compara à rede neural
+   * O que a analogia NÃO explica bem (limitações)
+
+Tarefa 2: Avalie as analogias (5 minutos)
+   - Das suas 3 analogias, escolha a melhor
+   - Explique por que ela é mais eficaz que as outras
+
+Tarefa 3: Compare com a do módulo (bonus)
+   - Use o ChatGPT para pedir analogias sobre redes neurais
+   - Compare com as suas
+   - O que a IA propõe que você não pensou?
+
+══════════════════════════════════════════════════════════════════
+
+💭 PERGUNTAS DE REFLEXÃO
+
+1. Por que analogias ajudam a entender conceitos complexos?
+
+2. Qual analogia sobre redes neurais você acha mais clara?
+
+3. Uma analogia perfeita existe? Por quê?
+
+4. Como você explicaria redes neurais para uma criança ou avó?
+
+══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+Dica 1: Uma boa analogia captura a essência, não todos os detalhes
+
+Dica 2: Pense em coisas do dia a dia que "filtram" ou "decidem"
+
+Dica 3: Analogias com comida, esporte ou jogos funcionam bem
+
+Dica 4: Pergunte ao ChatGPT: "me explique redes neurais com uma analogia"
+
+══════════════════════════════════════════════════════════════════
+
+✅ CRITÉRIOS DE AVALIAÇÃO
+
+□ 3 analogias criadas com comparações e limitações
+□ Melhor analogia escolhida e justificada
+□ Comparação com propostas da IA (bonus)
+□ Respostas às perguntas de reflexão
+══════════════════════════════════════════════════════════════════
